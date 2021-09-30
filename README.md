@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
-      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
-      "DadJokeOfTheDay": "Why do bees hum? Because they don't know the words.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5om5q3.jpg"
+      "FunFactOfTheDay": "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
+      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
+      "DadJokeOfTheDay": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5oqqq5.jpg"
    }
 }
 ```
