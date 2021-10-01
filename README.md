@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,598",
+      "CurrentStackOverflowReputation": "1,608",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
-      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
-      "DadJokeOfTheDay": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5oqqq5.jpg"
+      "FunFactOfTheDay": "The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.",
+      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
+      "DadJokeOfTheDay": "Did you know that protons have mass? I didn't even know they were catholic.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ovdkc.jpg"
    }
 }
 ```
