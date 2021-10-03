@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,608",
+      "CurrentStackOverflowReputation": "1,606",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest one-syllable word in the English language is 'screeched.'",
-      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
-      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ozp0f.jpg"
+      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "Why do crabs never give to charity? Because they’re shellfish.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5p2rb5.jpg"
    }
 }
 ```
