@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
-      "CoolAdviceOfTheDay": "Make choices and dont look back.",
-      "DadJokeOfTheDay": "Why do crabs never give to charity? Because they’re shellfish.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5p2rb5.jpg"
+      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
+      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
+      "DadJokeOfTheDay": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5p5z9v.jpg"
    }
 }
 ```
