@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,606",
+      "CurrentStackOverflowReputation": "1,616",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
-      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
-      "DadJokeOfTheDay": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5p5z9v.jpg"
+      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5pager.jpg"
    }
 }
 ```
