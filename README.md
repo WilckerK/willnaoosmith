@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5pf32o.jpg"
+      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
+      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
+      "DadJokeOfTheDay": "How much does a hipster weigh? An instagram.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5pjlxy.jpg"
    }
 }
 ```
