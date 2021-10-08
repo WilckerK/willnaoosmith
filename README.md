@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "How much does a hipster weigh? An instagram.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5pjlxy.jpg"
+      "FunFactOfTheDay": "The state of Florida is bigger than England!",
+      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
+      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "Oh no, this is akward"
    }
 }
 ```
