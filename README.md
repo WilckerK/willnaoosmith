@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,616",
+      "CurrentStackOverflowReputation": "1,626",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The state of Florida is bigger than England!",
-      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
-      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "Oh no, this is akward"
+      "FunFactOfTheDay": "The first episode of 'Joanie Loves Chachi' was the highest rated American program in the history of Korean television, a country where 'Chachi' translates to 'penis'.  ",
+      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
+      "DadJokeOfTheDay": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5pskt5.jpg"
    }
 }
 ```
