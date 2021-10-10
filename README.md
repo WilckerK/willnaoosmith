@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first episode of 'Joanie Loves Chachi' was the highest rated American program in the history of Korean television, a country where 'Chachi' translates to 'penis'.  ",
-      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
-      "DadJokeOfTheDay": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5pskt5.jpg"
+      "FunFactOfTheDay": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.",
+      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
+      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5pvnmc.jpg"
    }
 }
 ```
