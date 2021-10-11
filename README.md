@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.",
-      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
-      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5pvnmc.jpg"
+      "FunFactOfTheDay": "In every episode of Seinfeld there is a Superman somewhere.",
+      "CoolAdviceOfTheDay": "Plant a tree.",
+      "DadJokeOfTheDay": "What biscuit does a short person like? Shortbread. ",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5pyy73.jpg"
    }
 }
 ```
