@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,626",
+      "CurrentStackOverflowReputation": "1,636",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In every episode of Seinfeld there is a Superman somewhere.",
-      "CoolAdviceOfTheDay": "Plant a tree.",
-      "DadJokeOfTheDay": "What biscuit does a short person like? Shortbread. ",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5pyy73.jpg"
+      "FunFactOfTheDay": "Women manage the money and pay the bills in  75% of all Americans households.",
+      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
+      "DadJokeOfTheDay": "Why can't you use 'Beef stew' as a password? Because it's not stroganoff.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5q3daw.jpg"
    }
 }
 ```
