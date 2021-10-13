@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Women manage the money and pay the bills in  75% of all Americans households.",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "Why can't you use 'Beef stew' as a password? Because it's not stroganoff.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5q3daw.jpg"
+      "FunFactOfTheDay": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
+      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
+      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5q7xka.jpg"
    }
 }
 ```
