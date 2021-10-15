@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
-      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
-      "DadJokeOfTheDay": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5qcnav.jpg"
+      "FunFactOfTheDay": "One third of all cancers are sun related.",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5qhd4y.jpg"
    }
 }
 ```
