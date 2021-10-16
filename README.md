@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One third of all cancers are sun related.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5qhd4y.jpg"
+      "FunFactOfTheDay": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5qlyu6.jpg"
    }
 }
 ```
