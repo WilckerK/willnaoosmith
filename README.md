@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,636",
+      "CurrentStackOverflowReputation": "1,646",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A `jiffy` is a unit of time for 1/100th of a second.",
-      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
-      "DadJokeOfTheDay": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5qtthh.jpg"
+      "FunFactOfTheDay": "Each month, there is at least one report of UFOs from each province of Canada.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5qyk0m.jpg"
    }
 }
 ```
