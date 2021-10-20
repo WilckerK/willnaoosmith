@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each month, there is at least one report of UFOs from each province of Canada.",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5qyk0m.jpg"
+      "FunFactOfTheDay": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
+      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
+      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5r3dg5.jpg"
    }
 }
 ```
