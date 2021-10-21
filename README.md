@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,646",
+      "CurrentStackOverflowReputation": "1,666",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
-      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
-      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
-      "IsTodayChristmas?": "Not this time",
+      "FunFactOfTheDay": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
+      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
+      "DadJokeOfTheDay": "When do doctors get angry? When they run out of patients.",
+      "IsTodayChristmas?": "Unfortunately, not",
       "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5r3dg5.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5r8ayv.jpg"
    }
 }
 ```
