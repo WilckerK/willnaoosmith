@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
-      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
-      "DadJokeOfTheDay": "When do doctors get angry? When they run out of patients.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5r8ayv.jpg"
+      "FunFactOfTheDay": "Only one person in two billion will live to be 116 or older.",
+      "CoolAdviceOfTheDay": "The higher up you are in a company, the more likely it is that your boss is a psychopath.",
+      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5rd8o7.jpg"
    }
 }
 ```
