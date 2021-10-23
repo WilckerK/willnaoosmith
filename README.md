@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,666",
+      "CurrentStackOverflowReputation": "1,664",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only one person in two billion will live to be 116 or older.",
-      "CoolAdviceOfTheDay": "The higher up you are in a company, the more likely it is that your boss is a psychopath.",
-      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5rd8o7.jpg"
+      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
+      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
+      "DadJokeOfTheDay": "*Reversing the car* 'Ah, this takes me back'",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5rhz9j.jpg"
    }
 }
 ```
