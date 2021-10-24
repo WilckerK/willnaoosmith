@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
-      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
-      "DadJokeOfTheDay": "*Reversing the car* 'Ah, this takes me back'",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5rhz9j.jpg"
+      "FunFactOfTheDay": "Most American car horns honk in the key of F.",
+      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
+      "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5rlcui.jpg"
    }
 }
 ```
