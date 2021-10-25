@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most American car horns honk in the key of F.",
-      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
-      "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5rlcui.jpg"
+      "FunFactOfTheDay": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5roy5d.jpg"
    }
 }
 ```
