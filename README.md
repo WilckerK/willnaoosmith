@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
-      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
-      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5roy5d.jpg"
+      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
+      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
+      "DadJokeOfTheDay": "Why are basketball players messy eaters? Because they are always dribbling.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5rtnwm.jpg"
    }
 }
 ```
