@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
-      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
-      "DadJokeOfTheDay": "Why are basketball players messy eaters? Because they are always dribbling.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5rtnwm.jpg"
+      "FunFactOfTheDay": "10,000 Dutch cows pass through the Amsterdam airport each year.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "What did one wall say to the other wall? I'll meet you at the corner!",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ryh60.jpg"
    }
 }
 ```
