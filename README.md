@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "What did the calculator say to the student? You can count on me.",
-      "IsTodayChristmas?": "No",
+      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "Mountains aren't just funny, they are hill areas",
+      "IsTodayChristmas?": "Nope",
       "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5s398x.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5s85c6.jpg"
    }
 }
 ```
