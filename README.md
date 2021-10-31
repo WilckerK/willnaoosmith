@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Winston Churchill was born in a ladies` room during a dance.",
-      "CoolAdviceOfTheDay": "Don't drink bleach.",
-      "DadJokeOfTheDay": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5scsz0.jpg"
+      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "'I'll call you later.' Don't call me later, call me Dad.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5sg2js.jpg"
    }
 }
 ```
