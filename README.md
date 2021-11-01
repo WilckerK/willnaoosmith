@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "'I'll call you later.' Don't call me later, call me Dad.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5sg2js.jpg"
+      "FunFactOfTheDay": "Average number of people airborne over the US any given hour: 61,000.",
+      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
+      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5sjc2h.jpg"
    }
 }
 ```
