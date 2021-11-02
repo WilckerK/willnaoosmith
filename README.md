@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average number of people airborne over the US any given hour: 61,000.",
-      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
-      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5sjc2h.jpg"
+      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
+      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
+      "DadJokeOfTheDay": "What do prisoners use to call each other? Cell phones.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5snfa2.jpg"
    }
 }
 ```
