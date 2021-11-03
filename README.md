@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
-      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
-      "DadJokeOfTheDay": "What do prisoners use to call each other? Cell phones.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5snfa2.jpg"
+      "FunFactOfTheDay": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
+      "CoolAdviceOfTheDay": "Don't waste food.",
+      "DadJokeOfTheDay": "Why did the kid cross the playground? To get to the other slide.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5srxp5.jpg"
    }
 }
 ```
