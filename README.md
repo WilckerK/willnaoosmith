@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
-      "CoolAdviceOfTheDay": "Don't waste food.",
-      "DadJokeOfTheDay": "Why did the kid cross the playground? To get to the other slide.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5srxp5.jpg"
+      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
+      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
+      "DadJokeOfTheDay": "Did you hear about the submarine industry? It really took a dive...",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5swpg0.jpg"
    }
 }
 ```
