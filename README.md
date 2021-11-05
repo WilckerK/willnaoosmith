@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
-      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
-      "DadJokeOfTheDay": "Did you hear about the submarine industry? It really took a dive...",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5swpg0.jpg"
+      "FunFactOfTheDay": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
+      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
+      "DadJokeOfTheDay": "Why did the kid cross the playground? To get to the other slide.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5t1fru.jpg"
    }
 }
 ```
