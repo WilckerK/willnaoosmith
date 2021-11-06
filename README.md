@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
-      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
-      "DadJokeOfTheDay": "Why did the kid cross the playground? To get to the other slide.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5t1fru.jpg"
+      "FunFactOfTheDay": "The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "What did the late tomato say to the early tomato? I’ll ketch up",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5t5x40.jpg"
    }
 }
 ```
