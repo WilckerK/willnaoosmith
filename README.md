@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.",
+      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
       "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "What did the late tomato say to the early tomato? I’ll ketch up",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5t5x40.jpg"
+      "DadJokeOfTheDay": "Did you hear about the submarine industry? It really took a dive...",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5t95l3.jpg"
    }
 }
 ```
