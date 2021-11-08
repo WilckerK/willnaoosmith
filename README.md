@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.",
-      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
-      "DadJokeOfTheDay": "Why is the ocean always blue? Because the shore never waves back.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5tcjms.jpg"
+      "FunFactOfTheDay": "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5tfn7y.jpg"
    }
 }
 ```
