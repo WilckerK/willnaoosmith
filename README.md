@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
-      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "Did you hear about the submarine industry? It really took a dive...",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5t95l3.jpg"
+      "FunFactOfTheDay": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.",
+      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
+      "DadJokeOfTheDay": "Why is the ocean always blue? Because the shore never waves back.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5tcjms.jpg"
    }
 }
 ```
