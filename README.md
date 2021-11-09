@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5tfn7y.jpg"
+      "FunFactOfTheDay": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
+      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
+      "DadJokeOfTheDay": "This furniture store keeps emailing me, all I wanted was one night stand!",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5th4sa.jpg"
    }
 }
 ```
