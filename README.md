@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "This furniture store keeps emailing me, all I wanted was one night stand!",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5th4sa.jpg"
+      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
+      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
+      "DadJokeOfTheDay": "Can I watch the TV? Dad: Yes, but don’t turn it on.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5tlx1b.jpg"
    }
 }
 ```
