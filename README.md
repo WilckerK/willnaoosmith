@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,666",
+      "CurrentStackOverflowReputation": "1,676",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
-      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
-      "DadJokeOfTheDay": "Can I watch the TV? Dad: Yes, but don’t turn it on.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5tlx1b.jpg"
+      "FunFactOfTheDay": "%60 of all people using the Internet, use it for pornography.",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5tqwjd.jpg"
    }
 }
 ```
