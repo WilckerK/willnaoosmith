@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "%60 of all people using the Internet, use it for pornography.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5tqwjd.jpg"
+      "FunFactOfTheDay": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
+      "CoolAdviceOfTheDay": "Be a good lover.",
+      "DadJokeOfTheDay": "How does a scientist freshen their breath? With experi-mints!",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5tvmhl.jpg"
    }
 }
 ```
