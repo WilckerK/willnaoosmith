@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "When is a door not a door? When it's ajar.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5u095b.jpg"
+      "FunFactOfTheDay": "Oak trees do not produce acorns until they are fifty years of age or older.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5u3ipa.jpg"
    }
 }
 ```
