@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,674",
+      "CurrentStackOverflowReputation": "1,684",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oak trees do not produce acorns until they are fifty years of age or older.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5u3ipa.jpg"
+      "FunFactOfTheDay": "Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.",
+      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
+      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5u7033.jpg"
    }
 }
 ```
