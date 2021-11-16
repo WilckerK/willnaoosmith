@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.",
-      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
-      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5u7033.jpg"
+      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
+      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
+      "DadJokeOfTheDay": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ubo4t.jpg"
    }
 }
 ```
