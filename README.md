@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ubo4t.jpg"
+      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5uggvt.jpg"
    }
 }
 ```
