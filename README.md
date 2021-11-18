@@ -91,7 +91,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 451 Contributions in the Year 2021
+> 🏆 452 Contributions in the Year 2021
  > 
 > 📦 253.9 kB Used in GitHub's Storage 
  > 
@@ -120,7 +120,7 @@ Linux                    13 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 17/11/2021
+ Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
