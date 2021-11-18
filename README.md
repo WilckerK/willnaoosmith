@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5uggvt.jpg"
+      "FunFactOfTheDay": "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ulcz4.jpg"
    }
 }
 ```
