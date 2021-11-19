@@ -91,15 +91,15 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 452 Contributions in the Year 2021
+> 🏆 455 Contributions in the Year 2021
  > 
-> 📦 253.9 kB Used in GitHub's Storage 
+> 📦 267.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
  > 
-> 🔑 23 Private Repositories  
+> 🔑 24 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -120,7 +120,7 @@ Linux                    13 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 18/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
