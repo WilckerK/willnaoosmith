@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "40,000 Americans are injured by toilets each year.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5uqch0.jpg"
+      "FunFactOfTheDay": "It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.",
+      "CoolAdviceOfTheDay": "Don't cross the streams.",
+      "DadJokeOfTheDay": "Why does Superman get invited to dinners? Because he is a Supperhero.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5uv7io.jpg"
    }
 }
 ```
