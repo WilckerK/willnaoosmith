@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.",
-      "CoolAdviceOfTheDay": "Don't cross the streams.",
-      "DadJokeOfTheDay": "Why does Superman get invited to dinners? Because he is a Supperhero.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5uv7io.jpg"
+      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
+      "CoolAdviceOfTheDay": "Sometimes, you just need to say sorry. Even if it's not your fault.",
+      "DadJokeOfTheDay": "Just read a few facts about frogs. They were ribbiting.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5uyixh.jpg"
    }
 }
 ```
