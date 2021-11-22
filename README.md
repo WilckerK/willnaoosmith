@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
-      "CoolAdviceOfTheDay": "Sometimes, you just need to say sorry. Even if it's not your fault.",
-      "DadJokeOfTheDay": "Just read a few facts about frogs. They were ribbiting.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5uyixh.jpg"
+      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5v1yfv.jpg"
    }
 }
 ```
