@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
-      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
-      "DadJokeOfTheDay": "I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
+      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
+      "DadJokeOfTheDay": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+      "IsTodayChristmas?": "No say I",
       "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5v1yfv.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5v6k3y.jpg"
    }
 }
 ```
