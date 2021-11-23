@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
-      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
-      "DadJokeOfTheDay": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5v6k3y.jpg"
+      "FunFactOfTheDay": "Every acre of American crops harvested contains 100 pounds of insects.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5v9z1a.jpg"
    }
 }
 ```
