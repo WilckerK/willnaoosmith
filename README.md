@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every acre of American crops harvested contains 100 pounds of insects.",
-      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
-      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5v9z1a.jpg"
+      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
+      "DadJokeOfTheDay": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5vbgk9.jpg"
    }
 }
 ```
