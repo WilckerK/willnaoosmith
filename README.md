@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
-      "DadJokeOfTheDay": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5vbgk9.jpg"
+      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "I couldn't figure out how the seat belt worked. Then it just clicked.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5veh5c.jpg"
    }
 }
 ```
