@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "What do you call a fish with no eyes? A fsh.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5vhdjw.jpg"
+      "FunFactOfTheDay": "Shakespeare invented the word `assassination` and `bump`.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "I gave all my dead batteries away today, free of charge.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5vi2o2.jpg"
    }
 }
 ```
