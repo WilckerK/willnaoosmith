@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,696",
+      "CurrentStackOverflowReputation": "1,694",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5vkl14.jpg"
+      "FunFactOfTheDay": "Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.",
+      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
+      "DadJokeOfTheDay": "Why don't sharks eat clowns?  Because they taste funny.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5volk5.jpg"
    }
 }
 ```
