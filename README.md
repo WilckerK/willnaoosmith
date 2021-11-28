@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.",
-      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
-      "DadJokeOfTheDay": "Why don't sharks eat clowns?  Because they taste funny.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5volk5.jpg"
+      "FunFactOfTheDay": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of 'ough' in the English Language.",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5vs1tg.jpg"
    }
 }
 ```
