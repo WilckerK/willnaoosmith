@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,694",
+      "CurrentStackOverflowReputation": "1,704",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of 'ough' in the English Language.",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5vs1tg.jpg"
+      "FunFactOfTheDay": "The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.",
+      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
+      "DadJokeOfTheDay": "Why did the girl smear peanut butter on the road? To go with the traffic jam.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5vvp5u.jpg"
    }
 }
 ```
