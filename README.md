@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,704",
+      "CurrentStackOverflowReputation": "1,708",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.",
-      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
-      "DadJokeOfTheDay": "Why did the girl smear peanut butter on the road? To go with the traffic jam.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5vvp5u.jpg"
+      "FunFactOfTheDay": "A piece of paper can be folded no more then 9 times.",
+      "CoolAdviceOfTheDay": "Be a good lover.",
+      "DadJokeOfTheDay": "Don't tell secrets in corn fields. Too many ears around.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5w0jur.jpg"
    }
 }
 ```
