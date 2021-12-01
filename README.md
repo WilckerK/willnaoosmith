@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,708",
+      "CurrentStackOverflowReputation": "1,714",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A piece of paper can be folded no more then 9 times.",
-      "CoolAdviceOfTheDay": "Be a good lover.",
-      "DadJokeOfTheDay": "Don't tell secrets in corn fields. Too many ears around.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5w0jur.jpg"
+      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
+      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
+      "DadJokeOfTheDay": "What do you call a dictionary on drugs? High definition.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5w5m28.jpg"
    }
 }
 ```
