@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
-      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
-      "DadJokeOfTheDay": "What do you call a dictionary on drugs? High definition.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5w5m28.jpg"
+      "FunFactOfTheDay": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
+      "CoolAdviceOfTheDay": "Try using an old idea.",
+      "DadJokeOfTheDay": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5warbo.jpg"
    }
 }
 ```
