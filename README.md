@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,714",
+      "CurrentStackOverflowReputation": "1,716",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
-      "CoolAdviceOfTheDay": "Try using an old idea.",
-      "DadJokeOfTheDay": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5warbo.jpg"
+      "FunFactOfTheDay": "The word 'dexter' whose meaning refers to the right hand is typed with only the left hand.  ",
+      "CoolAdviceOfTheDay": "Do something selfless.",
+      "DadJokeOfTheDay": "Why did the teddy bear say “no” to dessert? Because she was stuffed.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5wfy4c.jpg"
    }
 }
 ```
