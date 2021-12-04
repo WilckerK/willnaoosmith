@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'dexter' whose meaning refers to the right hand is typed with only the left hand.  ",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "Why did the teddy bear say “no” to dessert? Because she was stuffed.",
-      "IsTodayChristmas?": "Ask me in a year",
+      "FunFactOfTheDay": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "What’s E.T. short for? He’s only got little legs.",
+      "IsTodayChristmas?": "Yes'nt",
       "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5wfy4c.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5wkvvd.jpg"
    }
 }
 ```
