@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "What’s E.T. short for? He’s only got little legs.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5wkvvd.jpg"
+      "FunFactOfTheDay": "Bats always turn left when exiting a cave",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "If you want a job in the moisturizer industry, the best advice I can give is to apply daily.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5wockb.jpg"
    }
 }
 ```
