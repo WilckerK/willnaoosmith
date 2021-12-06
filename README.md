@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Bats always turn left when exiting a cave",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "If you want a job in the moisturizer industry, the best advice I can give is to apply daily.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5wockb.jpg"
+      "FunFactOfTheDay": "The average North American will eat 35,000 cookies during their life span.",
+      "CoolAdviceOfTheDay": "Always bet on black.",
+      "DadJokeOfTheDay": "I heard there was a new store called Moderation. They have everything there",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5wrzm2.jpg"
    }
 }
 ```
