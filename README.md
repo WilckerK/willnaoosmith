@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,716",
+      "CurrentStackOverflowReputation": "1,717",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average North American will eat 35,000 cookies during their life span.",
-      "CoolAdviceOfTheDay": "Always bet on black.",
-      "DadJokeOfTheDay": "I heard there was a new store called Moderation. They have everything there",
-      "IsTodayChristmas?": "No say I",
+      "FunFactOfTheDay": "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`",
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "Is the pool safe for diving? It deep ends.",
+      "IsTodayChristmas?": "Ask me in a year",
       "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5wrzm2.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5x1rqt.jpg"
    }
 }
 ```
