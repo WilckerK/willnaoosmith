@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,727",
+      "CurrentStackOverflowReputation": "1,737",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "Why did the kid cross the playground? To get to the other slide.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5xgmfj.jpg"
+      "FunFactOfTheDay": "There are two credit cards for every person in the United States.",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "What do you get when you cross a rabbit with a water hose? Hare spray.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5xk0xq.jpg"
    }
 }
 ```
