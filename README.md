@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A whale`s penis is called a dork.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5xnkqs.jpg"
+      "FunFactOfTheDay": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "Bad at golf? Join the club.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5xsh05.jpg"
    }
 }
 ```
