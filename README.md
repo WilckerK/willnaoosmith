@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
-      "CoolAdviceOfTheDay": "Try making a list.",
-      "DadJokeOfTheDay": "How do hens stay fit? They always egg-cercise!",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5xxghu.jpg"
+      "FunFactOfTheDay": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
+      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
+      "DadJokeOfTheDay": "Why was the broom late for the meeting? He overswept.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5y2bjq.jpg"
    }
 }
 ```
