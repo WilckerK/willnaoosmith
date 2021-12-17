@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "Why was the broom late for the meeting? He overswept.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5y2bjq.jpg"
+      "FunFactOfTheDay": "The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "It's difficult to say what my wife does, she sells sea shells by the sea shore.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5y752o.jpg"
    }
 }
 ```
