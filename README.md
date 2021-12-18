@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,737",
+      "CurrentStackOverflowReputation": "1,747",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.",
-      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
-      "DadJokeOfTheDay": "It's difficult to say what my wife does, she sells sea shells by the sea shore.",
+      "FunFactOfTheDay": "When the French Academy was preparing its first dictionary, it defined 'crab' as, 'A small red fish, which walks backwards.' This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, 'Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards.'",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
       "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5y752o.jpg"
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ybn7g.jpg"
    }
 }
 ```
