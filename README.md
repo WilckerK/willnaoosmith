@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,747",
+      "CurrentStackOverflowReputation": "1,757",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When the French Academy was preparing its first dictionary, it defined 'crab' as, 'A small red fish, which walks backwards.' This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, 'Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards.'",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ybn7g.jpg"
+      "FunFactOfTheDay": "The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.",
+      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
+      "DadJokeOfTheDay": "The shovel was a ground-breaking invention.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5yerzg.jpg"
    }
 }
 ```
