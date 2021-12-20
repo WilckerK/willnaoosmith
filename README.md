@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.",
-      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
-      "DadJokeOfTheDay": "The shovel was a ground-breaking invention.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5yerzg.jpg"
+      "FunFactOfTheDay": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s 'Its A Wonderful Life.'",
+      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
+      "DadJokeOfTheDay": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5yhx0f.jpg"
    }
 }
 ```
