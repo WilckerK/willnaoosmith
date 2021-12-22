@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the White House, there are 13,092 knives, forks and spoons!",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "What do you call a dad that has fallen through the ice? A Popsicle.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5yqbe8.jpg"
+      "FunFactOfTheDay": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "Why was Santa's little helper feeling depressed? Because he has low elf esteem. ",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5yroye.jpg"
    }
 }
 ```
