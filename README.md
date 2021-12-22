@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,757",
+      "CurrentStackOverflowReputation": "1,767",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are only four words in the English language which end in 'dous': tremendous, horrendous, stupendous, and  hazardous.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "Why can't a bicycle stand on its own? It's two-tired.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ym2ru.jpg"
+      "FunFactOfTheDay": "In the White House, there are 13,092 knives, forks and spoons!",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "What do you call a dad that has fallen through the ice? A Popsicle.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5yqbe8.jpg"
    }
 }
 ```
