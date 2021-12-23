@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "Why was Santa's little helper feeling depressed? Because he has low elf esteem. ",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5yroye.jpg"
+      "FunFactOfTheDay": "The U.S. military operates 234 golf courses",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "Did you hear about the submarine industry? It really took a dive...",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5yue8n.jpg"
    }
 }
 ```
