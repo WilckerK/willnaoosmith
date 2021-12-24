@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The U.S. military operates 234 golf courses",
-      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
-      "DadJokeOfTheDay": "Did you hear about the submarine industry? It really took a dive...",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5yue8n.jpg"
+      "FunFactOfTheDay": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "Two dyslexics walk into a bra.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5yy7kl.jpg"
    }
 }
 ```
