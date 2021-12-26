@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The phrase 'rule of thumb' is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.",
-      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
-      "DadJokeOfTheDay": "What kind of music do planets listen to? Nep-tunes.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5z1ejx.jpg"
+      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
+      "CoolAdviceOfTheDay": "Don't burn bridges.",
+      "DadJokeOfTheDay": "Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5z41do.jpg"
    }
 }
 ```
