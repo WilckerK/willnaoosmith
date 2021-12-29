@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Almonds are a member of the peach family.",
-      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
-      "DadJokeOfTheDay": "I heard there was a new store called Moderation. They have everything there",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5z9vax.jpg"
+      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
+      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
+      "DadJokeOfTheDay": "What did the dog say to the two trees? Bark bark.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5zd8g8.jpg"
    }
 }
 ```
