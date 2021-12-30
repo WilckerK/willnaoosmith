@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
-      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
-      "DadJokeOfTheDay": "What did the dog say to the two trees? Bark bark.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5zd8g8.jpg"
+      "FunFactOfTheDay": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
+      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
+      "DadJokeOfTheDay": "I got fired from a florist, apparently I took too many leaves.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5zgt61.jpg"
    }
 }
 ```
