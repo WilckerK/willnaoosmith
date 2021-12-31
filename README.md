@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "I got fired from a florist, apparently I took too many leaves.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5zgt61.jpg"
+      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
+      "CoolAdviceOfTheDay": "Respect your elders.",
+      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5zkhim.jpg"
    }
 }
 ```
