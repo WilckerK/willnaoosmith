@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "Respect your elders.",
-      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5zkhim.jpg"
+      "FunFactOfTheDay": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
+      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
+      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5zo5ry.jpg"
    }
 }
 ```
