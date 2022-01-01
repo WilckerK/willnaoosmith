@@ -93,7 +93,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 560 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 322.0 kB Used in GitHub's Storage 
  > 
@@ -123,7 +123,7 @@ Mac                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 <p align="center">
