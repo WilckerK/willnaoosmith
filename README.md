@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "The shovel was a ground-breaking invention.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5zr5b3.jpg"
+      "FunFactOfTheDay": "The dot over the letter `i` is called a tittle.  ",
+      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
+      "DadJokeOfTheDay": "What is the best way to carve? Whittle by whittle.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5zucwl.jpg"
    }
 }
 ```
