@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "Where did Captain Hook get his hook? From a second hand store.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5zy72f.jpg"
+      "FunFactOfTheDay": "There are two credit cards for every person in the United States.",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/602i5h.jpg"
    }
 }
 ```
