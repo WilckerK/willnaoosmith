@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are two credit cards for every person in the United States.",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/602i5h.jpg"
+      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+      "CoolAdviceOfTheDay": "Plant a tree.",
+      "DadJokeOfTheDay": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/607bdj.jpg"
    }
 }
 ```
