@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,792",
+      "CurrentStackOverflowReputation": "1,793",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
-      "CoolAdviceOfTheDay": "Plant a tree.",
-      "DadJokeOfTheDay": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/607bdj.jpg"
+      "FunFactOfTheDay": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
+      "CoolAdviceOfTheDay": "Never cut your own fringe.",
+      "DadJokeOfTheDay": "I went on a date last night with a girl from the zoo. It was great. She’s a keeper.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/60c1ye.jpg"
    }
 }
 ```
