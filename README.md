@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
-      "CoolAdviceOfTheDay": "Never cut your own fringe.",
-      "DadJokeOfTheDay": "I went on a date last night with a girl from the zoo. It was great. She’s a keeper.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/60c1ye.jpg"
+      "FunFactOfTheDay": "Nearly 80% of all animals on earth have six legs.",
+      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
+      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/60gnoh.jpg"
    }
 }
 ```
