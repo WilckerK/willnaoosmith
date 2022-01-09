@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nearly 80% of all animals on earth have six legs.",
-      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
-      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/60gnoh.jpg"
+      "FunFactOfTheDay": "In Disney`s Fantasia, the Sorcerer`s name is 'Yensid' (Disney backwards.)",
+      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
+      "DadJokeOfTheDay": "I used to think I was indecisive, but now I'm not sure.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/60k41h.jpg"
    }
 }
 ```
