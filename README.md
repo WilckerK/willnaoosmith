@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Disney`s Fantasia, the Sorcerer`s name is 'Yensid' (Disney backwards.)",
-      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
-      "DadJokeOfTheDay": "I used to think I was indecisive, but now I'm not sure.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/60k41h.jpg"
+      "FunFactOfTheDay": "Weatherman Willard Scott was the first original Ronald McDonald.",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/60nn6x.jpg"
    }
 }
 ```
