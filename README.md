@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Weatherman Willard Scott was the first original Ronald McDonald.",
-      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
-      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/60nn6x.jpg"
+      "FunFactOfTheDay": "THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/60sfkm.jpg"
    }
 }
 ```
