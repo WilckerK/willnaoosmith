@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
-      "CoolAdviceOfTheDay": "Good things come to those who wait.",
-      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/60xf31.jpg"
+      "FunFactOfTheDay": "In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/612f1u.jpg"
    }
 }
 ```
