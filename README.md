@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.",
-      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
-      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/612f1u.jpg"
+      "FunFactOfTheDay": "Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "How does a French skeleton say hello? Bone-jour.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/617foh.jpg"
    }
 }
 ```
