@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "How does a French skeleton say hello? Bone-jour.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/617foh.jpg"
+      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
+      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
+      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/61ca3i.jpg"
    }
 }
 ```
