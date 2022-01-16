@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
-      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
-      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/61ca3i.jpg"
+      "FunFactOfTheDay": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
+      "CoolAdviceOfTheDay": "Never cut your own fringe.",
+      "DadJokeOfTheDay": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/61fqll.jpg"
    }
 }
 ```
