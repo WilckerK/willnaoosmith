@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
-      "CoolAdviceOfTheDay": "Never cut your own fringe.",
-      "DadJokeOfTheDay": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/61fqll.jpg"
+      "FunFactOfTheDay": "Conception occurs most in the month of December.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "'I'll call you later.' Don't call me later, call me Dad.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/61jend.jpg"
    }
 }
 ```
