@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'Checkmate' in chess comes from the Persian phrase 'Shah Mat,' which means 'the king is dead.'",
-      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
-      "DadJokeOfTheDay": "What is a tornado's favorite game to play? Twister!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/61siee.jpg"
+      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
+      "CoolAdviceOfTheDay": "Don't drink bleach.",
+      "DadJokeOfTheDay": "What’s the difference between an African elephant and an Indian elephant? About 5000 miles.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/61xjny.jpg"
    }
 }
 ```
