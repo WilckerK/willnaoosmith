@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
-      "CoolAdviceOfTheDay": "Don't drink bleach.",
-      "DadJokeOfTheDay": "What’s the difference between an African elephant and an Indian elephant? About 5000 miles.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/61xjny.jpg"
+      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
+      "CoolAdviceOfTheDay": "Vinegar is a powerful cleaning agent.",
+      "DadJokeOfTheDay": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/622ojl.jpg"
    }
 }
 ```
