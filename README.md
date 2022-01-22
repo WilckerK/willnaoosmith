@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,793",
+      "CurrentStackOverflowReputation": "1,791",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
-      "CoolAdviceOfTheDay": "Vinegar is a powerful cleaning agent.",
-      "DadJokeOfTheDay": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/622ojl.jpg"
+      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "Recent survey revealed 6 out of 7 dwarf's aren't happy.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/627sst.jpg"
    }
 }
 ```
