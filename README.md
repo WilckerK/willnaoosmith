@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "Recent survey revealed 6 out of 7 dwarf's aren't happy.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/627sst.jpg"
+      "FunFactOfTheDay": "Sex burns 360 calories per hour.",
+      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
+      "DadJokeOfTheDay": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/62bfd3.jpg"
    }
 }
 ```
