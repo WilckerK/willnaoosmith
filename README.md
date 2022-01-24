@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Sex burns 360 calories per hour.",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
-      "IsTodayChristmas?": "No",
+      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
+      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
+      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/62bfd3.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/62f6w4.jpg"
    }
 }
 ```
