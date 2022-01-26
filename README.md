@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,791",
+      "CurrentStackOverflowReputation": "1,809",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sperm of a mouse is actually longer than the sperm of an elephant.",
-      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
-      "DadJokeOfTheDay": "Want to hear a joke about construction? Nah, I'm still working on it.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/62k3wz.jpg"
+      "FunFactOfTheDay": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/62p8gn.jpg"
    }
 }
 ```
