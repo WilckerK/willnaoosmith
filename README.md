@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The mask worn by Michael Myers in the original 'Halloween' was actually a Captain Kirk mask painted white.",
-      "CoolAdviceOfTheDay": "Big things have small beginnings.",
-      "DadJokeOfTheDay": "“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/62u9o0.jpg"
+      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/62zkm6.jpg"
    }
 }
 ```
