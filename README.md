@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,809",
+      "CurrentStackOverflowReputation": "Looks like someone needs to repair their code now",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/62zkm6.jpg"
+      "FunFactOfTheDay": "The human heart creates enough pressure to squirt blood 30ft.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "What time did the man go to the dentist? Tooth hurt-y.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/634ngw.jpg"
    }
 }
 ```
