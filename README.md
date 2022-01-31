@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "What’s the difference between an African elephant and an Indian elephant? About 5000 miles.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6387yx.jpg"
+      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/63by79.jpg"
    }
 }
 ```
