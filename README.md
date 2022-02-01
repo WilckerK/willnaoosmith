@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
-      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
-      "DadJokeOfTheDay": "Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/63by79.jpg"
+      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "I think circles are pointless.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/63gt3l.jpg"
    }
 }
 ```
