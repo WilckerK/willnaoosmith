@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "Leather is great for sneaking around because it's made of hide.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/63lu1v.jpg"
+      "FunFactOfTheDay": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ",
+      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
+      "DadJokeOfTheDay": "What do you do when your bunny gets wet? You get your hare dryer.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/63r18y.jpg"
    }
 }
 ```
