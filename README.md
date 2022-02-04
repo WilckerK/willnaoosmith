@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ",
-      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
-      "DadJokeOfTheDay": "What do you do when your bunny gets wet? You get your hare dryer.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/63r18y.jpg"
+      "FunFactOfTheDay": "Two-thirds of the world`s eggplant is grown in New Jersey.  ",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/63w5sm.jpg"
    }
 }
 ```
