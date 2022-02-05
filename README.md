@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,820",
+      "CurrentStackOverflowReputation": "1,830",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Two-thirds of the world`s eggplant is grown in New Jersey.  ",
-      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
-      "DadJokeOfTheDay": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/63w5sm.jpg"
+      "FunFactOfTheDay": "More Monopoly money is printed in a year, than real money throughout the world.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6414nf.jpg"
    }
 }
 ```
