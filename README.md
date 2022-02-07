@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/644m80.jpg"
+      "FunFactOfTheDay": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6485sx.jpg"
    }
 }
 ```
