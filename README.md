@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,830",
+      "CurrentStackOverflowReputation": "1,865",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
+      "FunFactOfTheDay": "Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.",
+      "CoolAdviceOfTheDay": "Don't drink bleach.",
+      "DadJokeOfTheDay": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
       "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6485sx.jpg"
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/64czyb.jpg"
    }
 }
 ```
