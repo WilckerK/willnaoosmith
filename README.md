@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.",
-      "CoolAdviceOfTheDay": "Don't drink bleach.",
-      "DadJokeOfTheDay": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/64czyb.jpg"
+      "FunFactOfTheDay": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
+      "CoolAdviceOfTheDay": "Never run with scissors.",
+      "DadJokeOfTheDay": "Why are fish easy to weigh? Because they have their own scales.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/64i0yp.jpg"
    }
 }
 ```
