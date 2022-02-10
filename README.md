@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
-      "CoolAdviceOfTheDay": "Never run with scissors.",
-      "DadJokeOfTheDay": "Why are fish easy to weigh? Because they have their own scales.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/64i0yp.jpg"
+      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
+      "CoolAdviceOfTheDay": "Good things come to those who wait.",
+      "DadJokeOfTheDay": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/64n4j1.jpg"
    }
 }
 ```
