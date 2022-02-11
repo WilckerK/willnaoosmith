@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
-      "CoolAdviceOfTheDay": "Good things come to those who wait.",
-      "DadJokeOfTheDay": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "A jellyfish is 95 percent water!",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "I’m reading a book on the history of glue – can’t put it down.",
+      "IsTodayChristmas?": "Ask me tomorrow",
       "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/64n4j1.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/64saz1.jpg"
    }
 }
 ```
