@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A jellyfish is 95 percent water!",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "I’m reading a book on the history of glue – can’t put it down.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/64saz1.jpg"
+      "FunFactOfTheDay": "A snail can sleep for three years.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/64x9ss.jpg"
    }
 }
 ```
