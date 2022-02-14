@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
-      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
-      "DadJokeOfTheDay": "Some people say that I never got over my obsession with Phil Collins. But take a look at me now.",
+      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
       "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/650ndq.jpg"
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/654a5u.jpg"
    }
 }
 ```
