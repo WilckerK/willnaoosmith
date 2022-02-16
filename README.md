@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  ",
-      "CoolAdviceOfTheDay": "Your smile could make someone's day, don't forget to wear it.",
-      "DadJokeOfTheDay": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/65984a.jpg"
+      "FunFactOfTheDay": "Kelsey Grammar sings and plays the piano for the theme song of Fraiser.",
+      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
+      "DadJokeOfTheDay": "Why was it called the dark ages? Because of all the knights. ",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/65e194.jpg"
    }
 }
 ```
