@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
-      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
-      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/65iz1n.jpg"
+      "FunFactOfTheDay": "PEZ candy even comes in a Coffee flavor.",
+      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
+      "DadJokeOfTheDay": "Coffee has a tough time at my house, every morning it gets mugged.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/65nz3i.jpg"
    }
 }
 ```
