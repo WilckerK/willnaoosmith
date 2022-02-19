@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,865",
+      "CurrentStackOverflowReputation": "1,875",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "PEZ candy even comes in a Coffee flavor.",
-      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
-      "DadJokeOfTheDay": "Coffee has a tough time at my house, every morning it gets mugged.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/65nz3i.jpg"
+      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
+      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
+      "DadJokeOfTheDay": "A weasel walks into a bar. The bartender says, 'Wow, I've never served a weasel before. What can I get for you?' 'Pop,' goes the weasel.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/65sr1p.jpg"
    }
 }
 ```
