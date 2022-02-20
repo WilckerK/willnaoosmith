@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
-      "DadJokeOfTheDay": "A weasel walks into a bar. The bartender says, 'Wow, I've never served a weasel before. What can I get for you?' 'Pop,' goes the weasel.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/65sr1p.jpg"
+      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
+      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
+      "DadJokeOfTheDay": "Yesterday I confused the words 'jacuzzi' and 'yakuza'. Now I'm in hot water with the Japanese mafia.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/65w4yg.jpg"
    }
 }
 ```
