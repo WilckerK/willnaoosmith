@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
-      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
-      "DadJokeOfTheDay": "Yesterday I confused the words 'jacuzzi' and 'yakuza'. Now I'm in hot water with the Japanese mafia.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/65w4yg.jpg"
+      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/65zksi.jpg"
    }
 }
 ```
