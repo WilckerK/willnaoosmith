@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
-      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
-      "DadJokeOfTheDay": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6670xr.jpg"
+      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "A weasel walks into a bar. The bartender says, 'Wow, I've never served a weasel before. What can I get for you?' 'Pop,' goes the weasel.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6671sh.jpg"
    }
 }
 ```
