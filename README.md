@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
-      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/65zksi.jpg"
+      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
+      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
+      "DadJokeOfTheDay": "I used to be addicted to soap, but I'm clean now.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/663ye9.jpg"
    }
 }
 ```
