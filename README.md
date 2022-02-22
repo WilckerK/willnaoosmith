@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "I used to be addicted to soap, but I'm clean now.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/663ye9.jpg"
+      "FunFactOfTheDay": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6670xr.jpg"
    }
 }
 ```
