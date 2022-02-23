@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "A weasel walks into a bar. The bartender says, 'Wow, I've never served a weasel before. What can I get for you?' 'Pop,' goes the weasel.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6671sh.jpg"
+      "FunFactOfTheDay": "Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.",
+      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
+      "DadJokeOfTheDay": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/668so4.jpg"
    }
 }
 ```
