@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/668so4.jpg"
+      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
+      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
+      "DadJokeOfTheDay": "What's red and bad for your teeth? A Brick.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/66dmig.jpg"
    }
 }
 ```
