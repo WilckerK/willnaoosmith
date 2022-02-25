@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
-      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
-      "DadJokeOfTheDay": "What's red and bad for your teeth? A Brick.",
+      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
+      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
+      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
       "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/66dmig.jpg"
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/66itz8.jpg"
    }
 }
 ```
