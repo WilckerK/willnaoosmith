@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
-      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
-      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/66itz8.jpg"
+      "FunFactOfTheDay": "Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "What do prisoners use to call each other? Cell phones.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/66nf6w.jpg"
    }
 }
 ```
