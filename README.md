@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
-      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
-      "DadJokeOfTheDay": "Why is no one friends with Dracula? Because he's a pain in the neck.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/66yy8l.jpg"
+      "FunFactOfTheDay": "The symbol on the 'pound' key (#) is called an octothorpe..  ",
+      "CoolAdviceOfTheDay": "It's wrong to be right.",
+      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/673mic.jpg"
    }
 }
 ```
