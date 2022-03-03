@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,885",
+      "CurrentStackOverflowReputation": "1,875",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The symbol on the 'pound' key (#) is called an octothorpe..  ",
-      "CoolAdviceOfTheDay": "It's wrong to be right.",
-      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/673mic.jpg"
+      "FunFactOfTheDay": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of 'Lorne Greene`s Wild Kingdom.'",
+      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
+      "DadJokeOfTheDay": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/678dzq.jpg"
    }
 }
 ```
