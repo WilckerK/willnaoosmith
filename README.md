@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of 'Lorne Greene`s Wild Kingdom.'",
-      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
-      "DadJokeOfTheDay": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/678dzq.jpg"
+      "FunFactOfTheDay": "The U.S. military operates 234 golf courses",
+      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
+      "DadJokeOfTheDay": "When will the little snake arrive? I don't know but he won't be long...",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/67d804.jpg"
    }
 }
 ```
