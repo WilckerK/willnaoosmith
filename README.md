@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The U.S. military operates 234 golf courses",
-      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
-      "DadJokeOfTheDay": "When will the little snake arrive? I don't know but he won't be long...",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/67d804.jpg"
+      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/67hza1.jpg"
    }
 }
 ```
