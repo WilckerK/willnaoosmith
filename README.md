@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/67hza1.jpg"
+      "FunFactOfTheDay": "In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.",
+      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
+      "DadJokeOfTheDay": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/67lhs9.jpg"
    }
 }
 ```
