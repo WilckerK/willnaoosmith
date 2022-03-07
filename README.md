@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.",
-      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
-      "DadJokeOfTheDay": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/67lhs9.jpg"
+      "FunFactOfTheDay": "Winston Churchill was born in a ladies` room during a dance.",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "Slept like a log last night … woke up in the fireplace.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/67ozsk.jpg"
    }
 }
 ```
