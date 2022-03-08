@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,875",
+      "CurrentStackOverflowReputation": "1,885",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Winston Churchill was born in a ladies` room during a dance.",
-      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
-      "DadJokeOfTheDay": "Slept like a log last night … woke up in the fireplace.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/67ozsk.jpg"
+      "FunFactOfTheDay": "1 in every 4 Americans has appeared someway or another on television.",
+      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
+      "DadJokeOfTheDay": "Never Trust Someone With Graph Paper...  They're always plotting something.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/67tqn1.jpg"
    }
 }
 ```
