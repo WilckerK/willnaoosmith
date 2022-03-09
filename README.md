@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,885",
+      "CurrentStackOverflowReputation": "1,905",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "1 in every 4 Americans has appeared someway or another on television.",
-      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
-      "DadJokeOfTheDay": "Never Trust Someone With Graph Paper...  They're always plotting something.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/67tqn1.jpg"
+      "FunFactOfTheDay": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.",
+      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
+      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/67yls4.jpg"
    }
 }
 ```
