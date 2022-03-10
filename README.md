@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.",
-      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
-      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/67yls4.jpg"
+      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
+      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
+      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/683lt5.jpg"
    }
 }
 ```
