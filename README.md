@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
-      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
-      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/683lt5.jpg"
+      "FunFactOfTheDay": "In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "I crashed"
    }
 }
 ```
