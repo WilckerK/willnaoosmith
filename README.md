@@ -76,12 +76,13 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "I crashed"
+      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
+      "CoolAdviceOfTheDay": "Keep it simple.",
+      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
+Because he was a little horse!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/68dh1q.jpg"
    }
 }
 ```
