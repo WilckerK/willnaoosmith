@@ -76,13 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
-      "CoolAdviceOfTheDay": "Keep it simple.",
-      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
-Because he was a little horse!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/68dh1q.jpg"
+      "FunFactOfTheDay": "When a Hawaiian woman wears a flower over her left ear, it means that she is not available.",
+      "CoolAdviceOfTheDay": "Don't always believe what you think.",
+      "DadJokeOfTheDay": "Man, I really love my furniture... me and my recliner go way back.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/68gvz2.jpg"
    }
 }
 ```
