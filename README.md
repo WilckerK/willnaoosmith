@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When a Hawaiian woman wears a flower over her left ear, it means that she is not available.",
-      "CoolAdviceOfTheDay": "Don't always believe what you think.",
-      "DadJokeOfTheDay": "Man, I really love my furniture... me and my recliner go way back.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/68gvz2.jpg"
+      "FunFactOfTheDay": "100% of lottery winners do gain weight",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "What do you call an alligator in a vest? An in-vest-igator!",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/68kc1j.jpg"
    }
 }
 ```
