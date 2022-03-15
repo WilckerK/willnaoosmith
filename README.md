@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,905",
+      "CurrentStackOverflowReputation": "1,906",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "100% of lottery winners do gain weight",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "What do you call an alligator in a vest? An in-vest-igator!",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/68kc1j.jpg"
+      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
+      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
+      "DadJokeOfTheDay": "How do the trees get on the internet? They log on.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/68owo1.jpg"
    }
 }
 ```
