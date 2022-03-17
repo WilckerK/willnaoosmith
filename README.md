@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.",
-      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
-      "DadJokeOfTheDay": "When do doctors get angry? When they run out of patients.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/68tmn4.jpg"
+      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
+      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
+      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/68yg1w.jpg"
    }
 }
 ```
