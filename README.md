@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
-      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
-      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/68yg1w.jpg"
+      "FunFactOfTheDay": "Who`s that playing the piano on the 'Mad About You' theme? Paul Reiser himself.",
+      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
+      "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/693coz.jpg"
    }
 }
 ```
