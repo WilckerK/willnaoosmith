@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The phrase 'rule of thumb' is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.",
-      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "DadJokeOfTheDay": "What biscuit does a short person like? Shortbread. ",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/697vyi.jpg"
+      "FunFactOfTheDay": "The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "Why did the coffee file a police report? It got mugged.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69b62e.jpg"
    }
 }
 ```
