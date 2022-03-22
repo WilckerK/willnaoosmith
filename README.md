@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'Checkmate' in chess comes from the Persian phrase 'Shah Mat,' which means 'the king is dead.'",
-      "CoolAdviceOfTheDay": "The best sex is fun.",
-      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69elje.jpg"
+      "FunFactOfTheDay": "In England, the Speaker of the House is not allowed to speak.",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "What do you call a fat psychic? A four-chin teller.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69j9ig.jpg"
    }
 }
 ```
