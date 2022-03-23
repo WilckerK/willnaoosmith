@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In England, the Speaker of the House is not allowed to speak.",
-      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
-      "DadJokeOfTheDay": "What do you call a fat psychic? A four-chin teller.",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
+      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
+      "DadJokeOfTheDay": "What biscuit does a short person like? Shortbread. ",
+      "IsTodayChristmas?": "Maybe",
       "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69j9ig.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69o2q7.jpg"
    }
 }
 ```
