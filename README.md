@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ingrown toenails are hereditary.  ",
-      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
-      "DadJokeOfTheDay": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69w2rf.jpg"
+      "FunFactOfTheDay": "Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  ",
+      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
+      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69w4kc.jpg"
    }
 }
 ```
