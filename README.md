@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Over 60% of all those who marry get divorced.",
-      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
-      "DadJokeOfTheDay": "How do you fix a damaged jack-o-lantern? You use a pumpkin patch.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69w12e.jpg"
+      "FunFactOfTheDay": "Ingrown toenails are hereditary.  ",
+      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
+      "DadJokeOfTheDay": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69w2rf.jpg"
    }
 }
 ```
