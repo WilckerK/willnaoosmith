@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
-      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
-      "DadJokeOfTheDay": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69szm8.jpg"
+      "FunFactOfTheDay": "Over 60% of all those who marry get divorced.",
+      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
+      "DadJokeOfTheDay": "How do you fix a damaged jack-o-lantern? You use a pumpkin patch.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69w12e.jpg"
    }
 }
 ```
