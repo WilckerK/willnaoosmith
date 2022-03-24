@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
-      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
-      "DadJokeOfTheDay": "What biscuit does a short person like? Shortbread. ",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69o2q7.jpg"
+      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69szm8.jpg"
    }
 }
 ```
