@@ -101,9 +101,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 24 Public Repositories 
  > 
-> 🔑 24 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -123,7 +123,7 @@ Linux                    1 hr 46 mins        ███████████�
 ```
 
 
- Last Updated on 24/03/2022 18:41:31 UTC
+ Last Updated on 24/03/2022 18:52:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
