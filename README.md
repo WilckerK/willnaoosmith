@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  ",
-      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
-      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69w4kc.jpg"
+      "FunFactOfTheDay": "Spain leads the world in cork production",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "My cat was just sick on the carpet, I don’t think it’s feline well.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/69xz5e.jpg"
    }
 }
 ```
