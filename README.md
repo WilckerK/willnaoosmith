@@ -91,8 +91,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2038%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 52 Contributions in the Year 2022
@@ -123,7 +121,7 @@ Linux                    1 hr 46 mins        ███████████�
 ```
 
 
- Last Updated on 24/03/2022 18:52:01 UTC
+ Last Updated on 25/03/2022 03:19:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
