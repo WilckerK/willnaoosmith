@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Spain leads the world in cork production",
-      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
-      "DadJokeOfTheDay": "My cat was just sick on the carpet, I don’t think it’s feline well.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/69xz5e.jpg"
+      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
+      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6a2pug.jpg"
    }
 }
 ```
