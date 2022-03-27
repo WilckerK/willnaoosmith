@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
-      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6a2pug.jpg"
+      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6a621u.jpg"
    }
 }
 ```
