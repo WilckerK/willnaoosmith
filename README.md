@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6a621u.jpg"
+      "FunFactOfTheDay": "Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.",
+      "CoolAdviceOfTheDay": "Your smile could make someone's day, don't forget to wear it.",
+      "DadJokeOfTheDay": "If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6a9jwa.jpg"
    }
 }
 ```
