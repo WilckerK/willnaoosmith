@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.",
-      "CoolAdviceOfTheDay": "Your smile could make someone's day, don't forget to wear it.",
-      "DadJokeOfTheDay": "If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6a9jwa.jpg"
+      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
+      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
+      "DadJokeOfTheDay": "What did one wall say to the other wall? I'll meet you at the corner!",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ahb6i.jpg"
    }
 }
 ```
