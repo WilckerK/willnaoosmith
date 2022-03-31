@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "Why is the ocean always blue? Because the shore never waves back.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ane53.jpg"
+      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
+      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
+      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6asyyk.jpg"
    }
 }
 ```
