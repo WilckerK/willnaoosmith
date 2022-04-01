@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
-      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
-      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6asyyk.jpg"
+      "FunFactOfTheDay": "China has more English speakers than the United States.",
+      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
+      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ayhhi.jpg"
    }
 }
 ```
