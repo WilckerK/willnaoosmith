@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "China has more English speakers than the United States.",
-      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
-      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ayhhi.jpg"
+      "FunFactOfTheDay": "The average North American will eat 35,000 cookies during their life span.",
+      "CoolAdviceOfTheDay": "Look people in the eye.",
+      "DadJokeOfTheDay": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6b3mc2.jpg"
    }
 }
 ```
