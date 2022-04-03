@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average North American will eat 35,000 cookies during their life span.",
-      "CoolAdviceOfTheDay": "Look people in the eye.",
-      "DadJokeOfTheDay": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6b3mc2.jpg"
+      "FunFactOfTheDay": "Cats urine glows under a black light.",
+      "CoolAdviceOfTheDay": "Everything matters, but nothing matters that much.",
+      "DadJokeOfTheDay": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6b6wke.jpg"
    }
 }
 ```
