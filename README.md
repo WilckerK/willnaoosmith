@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats urine glows under a black light.",
-      "CoolAdviceOfTheDay": "Everything matters, but nothing matters that much.",
-      "DadJokeOfTheDay": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6b6wke.jpg"
+      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "What cheese can never be yours? Nacho cheese.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6bae3g.jpg"
    }
 }
 ```
