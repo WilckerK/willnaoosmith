@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "What cheese can never be yours? Nacho cheese.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6bae3g.jpg"
+      "FunFactOfTheDay": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
+      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
+      "DadJokeOfTheDay": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6bf3i8.jpg"
    }
 }
 ```
