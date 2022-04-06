@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
-      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
-      "DadJokeOfTheDay": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6bf3i8.jpg"
+      "FunFactOfTheDay": "A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.",
+      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
+      "DadJokeOfTheDay": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6bjx2s.jpg"
    }
 }
 ```
