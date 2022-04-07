@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.",
-      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
-      "DadJokeOfTheDay": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6bjx2s.jpg"
+      "FunFactOfTheDay": "Telly Savalas and Louis Armstrong died on their birthdays.  ",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6box9u.jpg"
    }
 }
 ```
