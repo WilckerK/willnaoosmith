@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Telly Savalas and Louis Armstrong died on their birthdays.  ",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6box9u.jpg"
+      "FunFactOfTheDay": "The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "You can't run through a camp site. You can only ran, because it's past tents.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6btz2k.jpg"
    }
 }
 ```
