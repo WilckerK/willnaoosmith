@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.",
-      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
-      "DadJokeOfTheDay": "What do you call a girl between two posts? Annette.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6bylxw.jpg"
+      "FunFactOfTheDay": "Bats always turn left when exiting a cave",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "My friend said to me: 'What rhymes with orange' I said: 'no it doesn't'",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6c1u4b.jpg"
    }
 }
 ```
