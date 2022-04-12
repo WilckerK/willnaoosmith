@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
-      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
-      "DadJokeOfTheDay": "What's orange and sounds like a parrot? A Carrot.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6c56wz.jpg"
+      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
+      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
+      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6c9m1p.jpg"
    }
 }
 ```
