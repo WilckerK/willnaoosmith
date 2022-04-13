@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
-      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
-      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6c9m1p.jpg"
+      "FunFactOfTheDay": "The mask worn by Michael Myers in the original 'Halloween' was actually a Captain Kirk mask painted white.",
+      "CoolAdviceOfTheDay": "Don't promise what you can't deliver.",
+      "DadJokeOfTheDay": "What do you call a nervous javelin thrower? Shakespeare.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ce7mn.jpg"
    }
 }
 ```
