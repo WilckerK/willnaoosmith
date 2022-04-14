@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,906",
+      "CurrentStackOverflowReputation": "1,907",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The mask worn by Michael Myers in the original 'Halloween' was actually a Captain Kirk mask painted white.",
-      "CoolAdviceOfTheDay": "Don't promise what you can't deliver.",
-      "DadJokeOfTheDay": "What do you call a nervous javelin thrower? Shakespeare.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ce7mn.jpg"
+      "FunFactOfTheDay": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
+      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
+      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6citnl.jpg"
    }
 }
 ```
