@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
-      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
-      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "All polar bears are left-handed.",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’",
+      "IsTodayChristmas?": "Maybe another time",
       "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6citnl.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6cnf6h.jpg"
    }
 }
 ```
