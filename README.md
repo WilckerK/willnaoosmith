@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All polar bears are left-handed.",
-      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
-      "DadJokeOfTheDay": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6cnf6h.jpg"
+      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
+      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
+      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6cr46d.jpg"
    }
 }
 ```
