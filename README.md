@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Spain leads the world in cork production",
-      "CoolAdviceOfTheDay": "Good things come to those who wait.",
-      "DadJokeOfTheDay": "I've just written a song about a tortilla. Well, it is more of a rap really.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6cu79e.jpg"
+      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
+      "CoolAdviceOfTheDay": "Vinegar is a powerful cleaning agent.",
+      "DadJokeOfTheDay": "Archaeology really is a career in ruins.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6cxdvi.jpg"
    }
 }
 ```
