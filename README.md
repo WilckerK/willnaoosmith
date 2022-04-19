@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
-      "CoolAdviceOfTheDay": "Vinegar is a powerful cleaning agent.",
-      "DadJokeOfTheDay": "Archaeology really is a career in ruins.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6cxdvi.jpg"
+      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "I couldn't figure out how the seat belt worked. Then it just clicked.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6d18zm.jpg"
    }
 }
 ```
