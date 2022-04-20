@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "I couldn't figure out how the seat belt worked. Then it just clicked.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6d18zm.jpg"
+      "FunFactOfTheDay": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
+      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
+      "DadJokeOfTheDay": "My boss told me to attach two pieces of wood together... I totally nailed it!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6d5rsc.jpg"
    }
 }
 ```
