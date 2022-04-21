@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
-      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
-      "DadJokeOfTheDay": "My boss told me to attach two pieces of wood together... I totally nailed it!",
+      "FunFactOfTheDay": "Cats urine glows under a black light.",
+      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
+      "DadJokeOfTheDay": "Don't tell secrets in corn fields. Too many ears around.",
       "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6d5rsc.jpg"
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6daipc.jpg"
    }
 }
 ```
