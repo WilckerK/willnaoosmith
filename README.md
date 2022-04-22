@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats urine glows under a black light.",
-      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
-      "DadJokeOfTheDay": "Don't tell secrets in corn fields. Too many ears around.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6daipc.jpg"
+      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
+      "CoolAdviceOfTheDay": "Never cut your own fringe.",
+      "DadJokeOfTheDay": "What has ears but cannot hear? A field of corn.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6df9lo.jpg"
    }
 }
 ```
