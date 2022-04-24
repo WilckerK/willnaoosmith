@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "What do you call a fish with no eyes? A fsh.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6djo1a.jpg"
+      "FunFactOfTheDay": "Tehran is the most expensive city on earth.",
+      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
+      "DadJokeOfTheDay": "I saw an ad in a shop window, 'Television for sale, $1, volume stuck on full', I thought, 'I can't turn that down'.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6dmto1.jpg"
    }
 }
 ```
