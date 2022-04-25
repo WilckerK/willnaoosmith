@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tehran is the most expensive city on earth.",
-      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
-      "DadJokeOfTheDay": "I saw an ad in a shop window, 'Television for sale, $1, volume stuck on full', I thought, 'I can't turn that down'.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6dmto1.jpg"
+      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
+      "DadJokeOfTheDay": "What was the pumpkin’s favorite sport?  Squash.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6dq82q.jpg"
    }
 }
 ```
