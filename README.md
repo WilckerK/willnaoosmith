@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
-      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
-      "DadJokeOfTheDay": "What was the pumpkin’s favorite sport?  Squash.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6dq82q.jpg"
+      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
+      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6duy96.jpg"
    }
 }
 ```
