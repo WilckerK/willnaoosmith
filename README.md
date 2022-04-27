@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
-      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6duy96.jpg"
+      "FunFactOfTheDay": "The longest one-syllable word in the English language is 'screeched.'",
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6dzu5g.jpg"
    }
 }
 ```
