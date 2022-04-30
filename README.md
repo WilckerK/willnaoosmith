@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.",
-      "CoolAdviceOfTheDay": "Never run with scissors.",
-      "DadJokeOfTheDay": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6e9rjz.jpg"
+      "FunFactOfTheDay": "Iceland consumes more Coca-Cola per capita than any other nation.",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "Did you hear the joke about the wandering nun? She was a roman catholic.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6eehw6.jpg"
    }
 }
 ```
