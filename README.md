@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Iceland consumes more Coca-Cola per capita than any other nation.",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "Did you hear the joke about the wandering nun? She was a roman catholic.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6eehw6.jpg"
+      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
+      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
+      "DadJokeOfTheDay": "Did you hear about the two thieves who stole a calendar? They each got six months.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ehprc.jpg"
    }
 }
 ```
