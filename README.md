@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
-      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
-      "DadJokeOfTheDay": "Did you hear about the two thieves who stole a calendar? They each got six months.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ehprc.jpg"
+      "FunFactOfTheDay": "The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "Two silk worms had a race. They ended up in a tie.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6el2ey.jpg"
    }
 }
 ```
