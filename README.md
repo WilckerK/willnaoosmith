@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "Two silk worms had a race. They ended up in a tie.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6el2ey.jpg"
+      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
+      "CoolAdviceOfTheDay": "Identify sources of happiness.",
+      "DadJokeOfTheDay": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ephvz.jpg"
    }
 }
 ```
