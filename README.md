@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
-      "CoolAdviceOfTheDay": "Identify sources of happiness.",
-      "DadJokeOfTheDay": "Why did the scarecrow win an award? Because he was outstanding in his field.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ephvz.jpg"
+      "FunFactOfTheDay": "The buzz from an electric razor in America plays in the key of B flat; Key of G in England.",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "What musical instrument is found in the bathroom? A tuba toothpaste.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6euag3.jpg"
    }
 }
 ```
