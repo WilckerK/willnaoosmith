@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The buzz from an electric razor in America plays in the key of B flat; Key of G in England.",
-      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
-      "DadJokeOfTheDay": "What musical instrument is found in the bathroom? A tuba toothpaste.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6euag3.jpg"
+      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
+      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
+      "DadJokeOfTheDay": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ezd05.jpg"
    }
 }
 ```
