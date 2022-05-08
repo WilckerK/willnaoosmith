@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A whale`s penis is called a dork.",
-      "CoolAdviceOfTheDay": "Don't burn bridges.",
-      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
-      "IsTodayChristmas?": "Maybe",
+      "FunFactOfTheDay": "There were always 56 curls in Shirley Temple`s hair.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "Milk is also the fastest liquid on earth – its pasteurized before you even see it",
+      "IsTodayChristmas?": "I dont know",
       "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6f8vz6.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6fc3zp.jpg"
    }
 }
 ```
