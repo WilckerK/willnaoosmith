@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "Why did the chicken get a penalty? For fowl play.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6fk6vk.jpg"
+      "FunFactOfTheDay": "Average number of people airborne over the US any given hour: 61,000.",
+      "CoolAdviceOfTheDay": "Respect your elders.",
+      "DadJokeOfTheDay": "Did you hear the one about the guy with the broken hearing aid? Neither did he.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6fp2v9.jpg"
    }
 }
 ```
