@@ -91,37 +91,36 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%201%20min-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 52 Contributions in the Year 2022
+> 🏆 59 Contributions in the Year 2022
  > 
-> 📦 281.2 kB Used in GitHub's Storage 
+> 📦 313.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 22 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-CSV                      43 mins             ██████████░░░░░░░░░░░░░░░   40.96% 
-Python                   34 mins             ████████░░░░░░░░░░░░░░░░░   32.32% 
-JavaScript               27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 27/03/2022 03:19:09 UTC
+ Last Updated on 11/05/2022 18:01:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
