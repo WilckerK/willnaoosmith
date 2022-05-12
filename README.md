@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "Why did the teddy bear say “no” to dessert? Because she was stuffed.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6fs0ve.jpg"
+      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "What did the green grape say to the purple grape? BREATH!!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6fu3f9.jpg"
    }
 }
 ```
