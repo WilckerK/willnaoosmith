@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To 'testify' was based on men in the Roman court swearing to a statement made by swearing on their testicles.",
-      "CoolAdviceOfTheDay": "Measure twice, cut once.",
-      "DadJokeOfTheDay": "A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6g42zh.jpg"
+      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+      "CoolAdviceOfTheDay": "The best sex is fun.",
+      "DadJokeOfTheDay": "What creature is smarter than a talking parrot? A spelling bee.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6g775m.jpg"
    }
 }
 ```
