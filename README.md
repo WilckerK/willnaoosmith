@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
-      "CoolAdviceOfTheDay": "The best sex is fun.",
-      "DadJokeOfTheDay": "What creature is smarter than a talking parrot? A spelling bee.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6g775m.jpg"
+      "FunFactOfTheDay": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
+      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
+      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6gaicr.jpg"
    }
 }
 ```
