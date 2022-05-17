@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
-      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
-      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6gaicr.jpg"
+      "FunFactOfTheDay": "'Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding.' Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "Why are skeletons so calm? Because nothing gets under their skin.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6gfbct.jpg"
    }
 }
 ```
