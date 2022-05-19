@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
-      "DadJokeOfTheDay": "My friend said to me: 'What rhymes with orange' I said: 'no it doesn't'",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6gk5vp.jpg"
+      "FunFactOfTheDay": "The human heart creates enough pressure to squirt blood 30ft.",
+      "CoolAdviceOfTheDay": "Never run with scissors.",
+      "DadJokeOfTheDay": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6gp4mk.jpg"
    }
 }
 ```
