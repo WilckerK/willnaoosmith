@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human heart creates enough pressure to squirt blood 30ft.",
-      "CoolAdviceOfTheDay": "Never run with scissors.",
-      "DadJokeOfTheDay": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6gp4mk.jpg"
+      "FunFactOfTheDay": "A whale`s penis is called a dork.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
+      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6gu319.jpg"
    }
 }
 ```
