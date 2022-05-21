@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A whale`s penis is called a dork.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
-      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6gu319.jpg"
+      "FunFactOfTheDay": "The pupils of a goat`s eyes are square.",
+      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
+      "DadJokeOfTheDay": "I’ve just been reading a book about anti-gravity, it’s impossible to put down!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6gysda.jpg"
    }
 }
 ```
