@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pupils of a goat`s eyes are square.",
-      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
-      "DadJokeOfTheDay": "I’ve just been reading a book about anti-gravity, it’s impossible to put down!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6gysda.jpg"
+      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
+      "CoolAdviceOfTheDay": "Never run with scissors.",
+      "DadJokeOfTheDay": "What is worse then finding a worm in your Apple? Finding half a worm in your Apple.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6h1ywq.jpg"
    }
 }
 ```
