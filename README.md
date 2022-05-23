@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
-      "CoolAdviceOfTheDay": "Never run with scissors.",
-      "DadJokeOfTheDay": "What is worse then finding a worm in your Apple? Finding half a worm in your Apple.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6h1ywq.jpg"
+      "FunFactOfTheDay": "More Monopoly money is printed in a year, than real money throughout the world.",
+      "CoolAdviceOfTheDay": "Be a good lover.",
+      "DadJokeOfTheDay": "To the guy who invented zero... thanks for nothing.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6h58qd.jpg"
    }
 }
 ```
