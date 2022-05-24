@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,915",
+      "CurrentStackOverflowReputation": "1,925",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
-      "CoolAdviceOfTheDay": "Tell it like it is.",
-      "DadJokeOfTheDay": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6h6l0y.jpg"
+      "FunFactOfTheDay": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.",
+      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
+      "DadJokeOfTheDay": "What is the hardest part about sky diving? The ground.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6h9tum.jpg"
    }
 }
 ```
