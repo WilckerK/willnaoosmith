@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every acre of American crops harvested contains 100 pounds of insects.",
-      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
-      "DadJokeOfTheDay": "What do birds give out on Halloween? Tweets.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hcbvy.jpg"
+      "FunFactOfTheDay": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "I broke my finger at work today, on the other hand I'm completely fine.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hdadq.jpg"
    }
 }
 ```
