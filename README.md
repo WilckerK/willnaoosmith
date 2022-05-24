@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.",
-      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
-      "DadJokeOfTheDay": "What is the hardest part about sky diving? The ground.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6h9tum.jpg"
+      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
+      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
+      "DadJokeOfTheDay": "'Hey, dad, did you get a haircut?' 'No, I got them all cut.'",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hcaka.jpg"
    }
 }
 ```
