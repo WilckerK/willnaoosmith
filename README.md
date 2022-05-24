@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
-      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
-      "DadJokeOfTheDay": "'Hey, dad, did you get a haircut?' 'No, I got them all cut.'",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hcaka.jpg"
+      "FunFactOfTheDay": "Every acre of American crops harvested contains 100 pounds of insects.",
+      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
+      "DadJokeOfTheDay": "What do birds give out on Halloween? Tweets.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hcbvy.jpg"
    }
 }
 ```
