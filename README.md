@@ -91,7 +91,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -124,7 +124,7 @@ Linux                    12 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 24/05/2022 20:23:00 UTC
+ Last Updated on 25/05/2022 03:47:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
