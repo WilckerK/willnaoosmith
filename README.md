@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to hunt camels in the state of Arizona.",
-      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
-      "DadJokeOfTheDay": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hemmz.jpg"
+      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
+      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
+      "DadJokeOfTheDay": "Did you know crocodiles could grow up to 15 feet? But most just have 4.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hfi6z.jpg"
    }
 }
 ```
