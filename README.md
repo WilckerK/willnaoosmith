@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "I broke my finger at work today, on the other hand I'm completely fine.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hdadq.jpg"
+      "FunFactOfTheDay": "It is illegal to hunt camels in the state of Arizona.",
+      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
+      "DadJokeOfTheDay": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hemmz.jpg"
    }
 }
 ```
