@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
-      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
-      "DadJokeOfTheDay": "Did you know crocodiles could grow up to 15 feet? But most just have 4.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hfi6z.jpg"
+      "FunFactOfTheDay": "The name for Oz in the 'Wizard of Oz' was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name 'OZ.'",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "Why do bees have sticky hair? Because they use honey combs!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hjfie.jpg"
    }
 }
 ```
