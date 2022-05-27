@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,925",
+      "CurrentStackOverflowReputation": "1,945",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -76,12 +76,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name for Oz in the 'Wizard of Oz' was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name 'OZ.'",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "Why do bees have sticky hair? Because they use honey combs!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hjfie.jpg"
+      "FunFactOfTheDay": "Between 25% and 33% of the population sneeze when exposed to light.",
+      "CoolAdviceOfTheDay": "Stop procrastinating.",
+      "DadJokeOfTheDay": "Why did the coffee file a police report? It got mugged.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hnspc.jpg"
    }
 }
 ```
