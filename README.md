@@ -1,7 +1,6 @@
 <h1 align="center">William Brochensque Júnior</h1>
 
 <h5 align="center">Fullstack developer and DBA</h5>
-<h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
 
 <p align="center">
 	<a href="https://gist.github.com/willnaoosmith">
