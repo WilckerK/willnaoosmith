@@ -55,8 +55,8 @@
 ```json
 {
    "Will": {
-      "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-      "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
+      "CurrentFocus": "Automating boring tasks with Python",
+      "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
       "CurrentStackOverflowReputation": "1,945",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
@@ -66,22 +66,21 @@
          "IDE": "Sublime text",
          "Language": "Python",
          "MobileOS": "Android",
-         "Misc": ["Electronics"],
-         "Games": ["Chrono Trigger","Driver: Parallel Lines","Super Smash Brothers Melee"],
+         "Games": ["Driver: Parallel Lines","Chrono Trigger","Watch Dogs"],
          "Music": {
-            "Genres": ["Rock","Lo-fi","Indie"],
-            "Songs": ["Bad caracther - quasimodo","Goodbye weekend - Mac de marco","Reggae do Maneiro - Raimundos"],
-            "Artists": ["Mac Demarco","Raimundos","Jinsang"]
+            "Genres": ["Rock","Lo-fi","Alternative Hip Hop"],
+            "Songs": ["MF DOOM - Raid","Bad caracther - quasimodo","Reggae do Maneiro - Raimundos"],
+            "Artists": ["MF DOOM","Raimundos","Jinsang"]
          }
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Between 25% and 33% of the population sneeze when exposed to light.",
-      "CoolAdviceOfTheDay": "Stop procrastinating.",
-      "DadJokeOfTheDay": "Why did the coffee file a police report? It got mugged.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "The word 'set' has more definitions than any other word in the English language.",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hnspc.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hoptr.jpg"
    }
 }
 ```
