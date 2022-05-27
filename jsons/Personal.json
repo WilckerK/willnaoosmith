@@ -1,7 +1,7 @@
 {
     "Will": {
-        "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-        "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
+        "CurrentFocus": "Automating boring tasks with Python",
+        "HowDoISeeMyselfIn5Years": "As a better fullstack developer and sysadmin",
         "CurrentStackOverflowReputation": "",
         "Favorites": {
             "OperationalSystem": "Arch Linux",
@@ -11,8 +11,7 @@
             "IDE": "Sublime text",
             "Language": "Python",
             "MobileOS": "Android",
-            "Misc": ["Electronics"],
-            "Games": ["Chrono Trigger", "Driver: Parallel Lines", "Super Smash Brothers Melee"]
+            "Games": ["Driver: Parallel Lines", "Chrono Trigger", "Watch Dogs"]
         }
     }
 }
