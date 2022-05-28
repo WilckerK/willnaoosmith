@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'set' has more definitions than any other word in the English language.",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hoptr.jpg"
+      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
+      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
+      "DadJokeOfTheDay": "I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hryqc.jpg"
    }
 }
 ```
