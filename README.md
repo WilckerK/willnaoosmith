@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
-      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
-      "DadJokeOfTheDay": "I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hryqc.jpg"
+      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
+      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
+      "DadJokeOfTheDay": "Why was Santa's little helper feeling depressed? Because he has low elf esteem. ",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hv1v6.jpg"
    }
 }
 ```
