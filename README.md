@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
-      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
-      "DadJokeOfTheDay": "Why was Santa's little helper feeling depressed? Because he has low elf esteem. ",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hv1v6.jpg"
+      "FunFactOfTheDay": "Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "Is the pool safe for diving? It deep ends.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6hy6mz.jpg"
    }
 }
 ```
