@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "Is the pool safe for diving? It deep ends.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6hy6mz.jpg"
+      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6i2004.jpg"
    }
 }
 ```
