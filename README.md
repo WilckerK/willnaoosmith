@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
-      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
-      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6i2004.jpg"
+      "FunFactOfTheDay": "In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.",
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6i6hp3.jpg"
    }
 }
 ```
