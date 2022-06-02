@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.",
-      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
-      "DadJokeOfTheDay": "Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6i6hp3.jpg"
+      "FunFactOfTheDay": "Elephants are the only animals that can`t jump.",
+      "CoolAdviceOfTheDay": "Keep it simple.",
+      "DadJokeOfTheDay": "What is a witch's favorite subject in school? Spelling!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ib337.jpg"
    }
 }
 ```
