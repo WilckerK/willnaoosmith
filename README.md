@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Porcupines can float in water.",
-      "CoolAdviceOfTheDay": "Identify sources of happiness.",
-      "DadJokeOfTheDay": "It doesn't matter how much you push the envelope. It will still be stationary.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ifk4a.jpg"
+      "FunFactOfTheDay": "You can`t kill yourself by holding your breath.  ",
+      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
+      "DadJokeOfTheDay": "Why was the broom late for the meeting? He overswept.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ijsft.jpg"
    }
 }
 ```
