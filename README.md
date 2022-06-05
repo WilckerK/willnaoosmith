@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can`t kill yourself by holding your breath.  ",
-      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
-      "DadJokeOfTheDay": "Why was the broom late for the meeting? He overswept.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ijsft.jpg"
+      "FunFactOfTheDay": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
+      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
+      "DadJokeOfTheDay": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.  So, I got a job at a travel agency.  Now, I know I'll be going places.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6impj8.jpg"
    }
 }
 ```
