@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.  So, I got a job at a travel agency.  Now, I know I'll be going places.",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "What is a tornado's favorite game to play? Twister!",
+      "IsTodayChristmas?": "!Yes",
       "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6impj8.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ipsk4.jpg"
    }
 }
 ```
