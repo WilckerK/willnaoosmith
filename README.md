@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.",
-      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
-      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6itts7.jpg"
+      "FunFactOfTheDay": "Reindeer like to eat bananas.",
+      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
+      "DadJokeOfTheDay": "I'm glad I know sign language, it's pretty handy.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6iy47a.jpg"
    }
 }
 ```
