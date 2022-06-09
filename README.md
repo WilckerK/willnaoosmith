@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Reindeer like to eat bananas.",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "I'm glad I know sign language, it's pretty handy.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6iy47a.jpg"
+      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
+      "CoolAdviceOfTheDay": "Plant a tree.",
+      "DadJokeOfTheDay": "I gave all my dead batteries away today, free of charge.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6j2kac.jpg"
    }
 }
 ```
