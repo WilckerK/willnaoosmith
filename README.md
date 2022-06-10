@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
-      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
-      "DadJokeOfTheDay": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6j70et.jpg"
+      "FunFactOfTheDay": "The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  ",
+      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
+      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6j7xsh.jpg"
    }
 }
 ```
