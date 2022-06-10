@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  ",
-      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
-      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6j7xsh.jpg"
+      "FunFactOfTheDay": "Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6j7ycc.jpg"
    }
 }
 ```
