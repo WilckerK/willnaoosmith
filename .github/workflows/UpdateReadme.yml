@@ -23,6 +23,11 @@ jobs:
       - name: Commit changes      
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: "Github Actions"
+          author_email: "githubactions@github.com.br"
+          committer_name: "Github Actions"
+          committer_email: "githubactions@github.com.br"
+          message: "Updated README.md Data"
           token: ${{ secrets.GH_TOKEN }}
   
       - name: Generate Waka Stats
