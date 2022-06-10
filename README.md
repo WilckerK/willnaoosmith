@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
-      "CoolAdviceOfTheDay": "Plant a tree.",
-      "DadJokeOfTheDay": "I gave all my dead batteries away today, free of charge.",
+      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
+      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
+      "DadJokeOfTheDay": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
       "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6j2kac.jpg"
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6j70et.jpg"
    }
 }
 ```
