@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "1,947",
+      "CurrentStackOverflowReputation": "1,974",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6j7ycc.jpg"
+      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
+      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
+      "DadJokeOfTheDay": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6jb9ib.jpg"
    }
 }
 ```
