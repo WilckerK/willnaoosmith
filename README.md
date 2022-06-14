@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oak trees do not produce acorns until they are fifty years of age or older.",
-      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
-      "DadJokeOfTheDay": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6jh8r0.jpg"
+      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "Where did you learn to make ice cream? Sunday school.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6jlgo3.jpg"
    }
 }
 ```
