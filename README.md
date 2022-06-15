@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "Where did you learn to make ice cream? Sunday school.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6jlgo3.jpg"
+      "FunFactOfTheDay": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
+      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
+      "DadJokeOfTheDay": "I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6jpr8n.jpg"
    }
 }
 ```
