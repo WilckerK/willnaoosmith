@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
-      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
-      "DadJokeOfTheDay": "I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6jpr8n.jpg"
+      "FunFactOfTheDay": "The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ju2ir.jpg"
    }
 }
 ```
