@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
-      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
-      "DadJokeOfTheDay": "What did the left eye say to the right eye? Between us, something smells!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6jv4ay.jpg"
+      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
+      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
+      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6jv507.jpg"
    }
 }
 ```
