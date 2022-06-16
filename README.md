@@ -87,38 +87,40 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2025%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 151 Contributions in the Year 2022
+> 🏆 157 Contributions in the Year 2022
  > 
-> 📦 312.8 kB Used in GitHub's Storage 
+> 📦 275.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 29 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 49 mins        █████████████████████░░░░   84.99% 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
-PHP                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.79%
+Python                   4 hrs 38 mins       ██████████████████████░░░   90.43% 
+CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-Sublime Text             2 hrs 8 mins        █████████████████████████   100.0%
+Sublime Text             5 hrs 8 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 8 mins        █████████████████████████   100.0%
+Linux                    5 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/06/2022 03:56:01 UTC
+ Last Updated on 16/06/2022 12:02:38 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
