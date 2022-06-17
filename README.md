@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
-      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6jv507.jpg"
+      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6jycb1.jpg"
    }
 }
 ```
