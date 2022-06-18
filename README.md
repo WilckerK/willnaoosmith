@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
-      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
-      "DadJokeOfTheDay": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6jycb1.jpg"
+      "FunFactOfTheDay": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
+      "DadJokeOfTheDay": "So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6k2cip.jpg"
    }
 }
 ```
