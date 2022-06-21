@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Jupiter is bigger than all the other planets in our solar system combined.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "Why was the picture sent to prison? It was framed.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6k8d4l.jpg"
+      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
+      "CoolAdviceOfTheDay": "Keep it simple.",
+      "DadJokeOfTheDay": "Camping is intense.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6kca57.jpg"
    }
 }
 ```
