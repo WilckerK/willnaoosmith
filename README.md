@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
-      "CoolAdviceOfTheDay": "Keep it simple.",
-      "DadJokeOfTheDay": "Camping is intense.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6kca57.jpg"
+      "FunFactOfTheDay": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
+      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
+      "DadJokeOfTheDay": "I used to be a banker, but I lost interest.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6kgfvh.jpg"
    }
 }
 ```
