@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
-      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
-      "DadJokeOfTheDay": "I used to be a banker, but I lost interest.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6kgfvh.jpg"
+      "FunFactOfTheDay": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.",
+      "CoolAdviceOfTheDay": "Stop procrastinating.",
+      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6kkrpa.jpg"
    }
 }
 ```
