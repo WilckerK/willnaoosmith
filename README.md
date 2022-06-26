@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  ",
-      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
-      "DadJokeOfTheDay": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6kt9u2.jpg"
+      "FunFactOfTheDay": "On average, Americans` favorite smell is banana.",
+      "CoolAdviceOfTheDay": "The best sex is fun.",
+      "DadJokeOfTheDay": "I've just written a song about a tortilla. Well, it is more of a rap really.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6kw9wx.jpg"
    }
 }
 ```
