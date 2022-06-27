@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "1,994",
+      "CurrentStackOverflowReputation": "2,004",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On average, Americans` favorite smell is banana.",
-      "CoolAdviceOfTheDay": "The best sex is fun.",
-      "DadJokeOfTheDay": "I've just written a song about a tortilla. Well, it is more of a rap really.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6kw9wx.jpg"
+      "FunFactOfTheDay": "Camels have three eyelids to protect themselves from blowing sand!",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "What do you call a nervous javelin thrower? Shakespeare.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6kzchv.jpg"
    }
 }
 ```
