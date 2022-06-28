@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Camels have three eyelids to protect themselves from blowing sand!",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "What do you call a nervous javelin thrower? Shakespeare.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6kzchv.jpg"
+      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
+      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
+      "DadJokeOfTheDay": "Did you hear the one about the giant pickle?  He was kind of a big dill.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6l3bov.jpg"
    }
 }
 ```
