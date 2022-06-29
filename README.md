@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
-      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
-      "DadJokeOfTheDay": "Did you hear the one about the giant pickle?  He was kind of a big dill.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6l3bov.jpg"
+      "FunFactOfTheDay": "The verb 'cleave' is the only English word with two synonyms which are antonyms of each other: adhere and separate.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6l7gf3.jpg"
    }
 }
 ```
