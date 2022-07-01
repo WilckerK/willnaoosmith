@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,004",
+      "CurrentStackOverflowReputation": "2,014",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "A man is washing the car with his son. The son asks...... 'Dad, can’t you just use a sponge?'",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6lbob9.jpg"
+      "FunFactOfTheDay": "Cats urine glows under a black light.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "Slept like a log last night … woke up in the fireplace.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6lfx3i.jpg"
    }
 }
 ```
