@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats urine glows under a black light.",
-      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
-      "DadJokeOfTheDay": "Slept like a log last night … woke up in the fireplace.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6lfx3i.jpg"
+      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
+      "CoolAdviceOfTheDay": "Big things have small beginnings.",
+      "DadJokeOfTheDay": "Why do pirates not know the alphabet? They always get stuck at 'C'.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ljqdm.jpg"
    }
 }
 ```
