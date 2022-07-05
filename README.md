@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
-      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
-      "DadJokeOfTheDay": "What do Alexander the Great and Winnie the Pooh have in common? Same middle name.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6lpey2.jpg"
+      "FunFactOfTheDay": "The average woman consumes 6 lbs of lipstick in her lifetime.",
+      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
+      "DadJokeOfTheDay": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6lstl6.jpg"
    }
 }
 ```
