@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average woman consumes 6 lbs of lipstick in her lifetime.",
-      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
-      "DadJokeOfTheDay": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with.",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "The katydid bug hears through holes in its hind legs!",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
+      "IsTodayChristmas?": "Ask me in one hour",
       "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6lstl6.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6lwk5x.jpg"
    }
 }
 ```
