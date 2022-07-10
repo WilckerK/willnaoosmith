@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6m8dtn.jpg"
+      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
+      "DadJokeOfTheDay": "Why are fish so smart? Because they live in schools!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6mb83m.jpg"
    }
 }
 ```
