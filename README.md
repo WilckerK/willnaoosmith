@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average lifespan of an eyelash is five months.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "What do you call an elephant that doesn’t matter? An irrelephant.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6me5qs.jpg"
+      "FunFactOfTheDay": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
+      "CoolAdviceOfTheDay": "You never really grow up.",
+      "DadJokeOfTheDay": "Why did the m&m go to school? Because it wanted to be a Smartie!",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6mhzxc.jpg"
    }
 }
 ```
