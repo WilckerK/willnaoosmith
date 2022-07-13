@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
-      "CoolAdviceOfTheDay": "You never really grow up.",
-      "DadJokeOfTheDay": "Why did the m&m go to school? Because it wanted to be a Smartie!",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6mhzxc.jpg"
+      "FunFactOfTheDay": "Conception occurs most in the month of December.",
+      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
+      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6mlwhf.jpg"
    }
 }
 ```
