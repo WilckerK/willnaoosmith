@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Conception occurs most in the month of December.",
-      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
-      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6mlwhf.jpg"
+      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
+      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
+      "DadJokeOfTheDay": "Why did the coffee file a police report? It got mugged.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6mpyav.jpg"
    }
 }
 ```
