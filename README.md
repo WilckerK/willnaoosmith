@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
-      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
-      "DadJokeOfTheDay": "Why did the coffee file a police report? It got mugged.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6mpyav.jpg"
+      "FunFactOfTheDay": "Hot water is heavier than cold.",
+      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
+      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6mtxex.jpg"
    }
 }
 ```
