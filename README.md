@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You were born with 300 bones, but by the time you are an adult you will only have 206.",
-      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
-      "DadJokeOfTheDay": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6n0hfg.jpg"
+      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
+      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
+      "DadJokeOfTheDay": "My sea sickness comes in waves.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6n3cac.jpg"
    }
 }
 ```
