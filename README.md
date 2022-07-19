@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "My sea sickness comes in waves.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6n3cac.jpg"
+      "FunFactOfTheDay": "A shark is the only fish that can blink with both eyes.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "Why don't sharks eat clowns?  Because they taste funny.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6n7634.jpg"
    }
 }
 ```
