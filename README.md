@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A shark is the only fish that can blink with both eyes.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "Why don't sharks eat clowns?  Because they taste funny.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6n7634.jpg"
+      "FunFactOfTheDay": "The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.",
+      "CoolAdviceOfTheDay": "Have a firm handshake.",
+      "DadJokeOfTheDay": "Why did the miner get fired from his job? He took it for granite...",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nb1mg.jpg"
    }
 }
 ```
