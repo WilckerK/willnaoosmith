@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nf2km.jpg"
+      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
+      "CoolAdviceOfTheDay": "You never really grow up.",
+      "DadJokeOfTheDay": "Doctor: Do you want to hear the good news or the bad news? Patient: Good news please. Doctor: we're naming a disease after you.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nfxe7.jpg"
    }
 }
 ```
