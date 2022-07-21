@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.",
-      "CoolAdviceOfTheDay": "Have a firm handshake.",
-      "DadJokeOfTheDay": "Why did the miner get fired from his job? He took it for granite...",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nb1mg.jpg"
+      "FunFactOfTheDay": "THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.",
+      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
+      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nf2km.jpg"
    }
 }
 ```
