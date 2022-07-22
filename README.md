@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
-      "CoolAdviceOfTheDay": "You never really grow up.",
-      "DadJokeOfTheDay": "Doctor: Do you want to hear the good news or the bad news? Patient: Good news please. Doctor: we're naming a disease after you.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nfxe7.jpg"
+      "FunFactOfTheDay": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
+      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
+      "DadJokeOfTheDay": "'Dad, I'm cold.' 'Go stand in the corner, I hear it's 90 degrees.'",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nj8qi.jpg"
    }
 }
 ```
