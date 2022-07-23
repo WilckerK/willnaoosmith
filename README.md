@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,014",
+      "CurrentStackOverflowReputation": "2,022",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "'Dad, I'm cold.' 'Go stand in the corner, I hear it's 90 degrees.'",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nj8qi.jpg"
+      "FunFactOfTheDay": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
+      "CoolAdviceOfTheDay": "Don't drink bleach.",
+      "DadJokeOfTheDay": "Why are ghosts bad liars? Because you can see right through them!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nn9ox.jpg"
    }
 }
 ```
