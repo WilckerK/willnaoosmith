@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,022",
+      "CurrentStackOverflowReputation": "2,032",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
-      "CoolAdviceOfTheDay": "Don't drink bleach.",
-      "DadJokeOfTheDay": "Why are ghosts bad liars? Because you can see right through them!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nn9ox.jpg"
+      "FunFactOfTheDay": "The U.S. military operates 234 golf courses",
+      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
+      "DadJokeOfTheDay": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nq7az.jpg"
    }
 }
 ```
