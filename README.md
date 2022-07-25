@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The U.S. military operates 234 golf courses",
-      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
-      "DadJokeOfTheDay": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nq7az.jpg"
+      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
+      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
+      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nt7lc.jpg"
    }
 }
 ```
