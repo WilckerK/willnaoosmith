@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nt7lc.jpg"
+      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
+      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
+      "DadJokeOfTheDay": "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6nx510.jpg"
    }
 }
 ```
