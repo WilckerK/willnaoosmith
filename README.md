@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
-      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
-      "DadJokeOfTheDay": "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6nx510.jpg"
+      "FunFactOfTheDay": "The word 'dexter' whose meaning refers to the right hand is typed with only the left hand.  ",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6o14za.jpg"
    }
 }
 ```
