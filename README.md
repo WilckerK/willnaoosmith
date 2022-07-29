@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "Bad at golf? Join the club.",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
+      "CoolAdviceOfTheDay": "Do something selfless.",
+      "DadJokeOfTheDay": "What do you call a dictionary on drugs? High definition.",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6o5887.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6o9ewp.jpg"
    }
 }
 ```
