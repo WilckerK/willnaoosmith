@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The eyes of a donkey are positioned so that it can see all four feet at all times.",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6odczg.jpg"
+      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
+      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
+      "DadJokeOfTheDay": "Where do bees go to the bathroom?  The BP station.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6og94s.jpg"
    }
 }
 ```
