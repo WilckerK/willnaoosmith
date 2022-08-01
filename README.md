@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,032",
+      "CurrentStackOverflowReputation": "2,052",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
-      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
-      "DadJokeOfTheDay": "Where do bees go to the bathroom?  The BP station.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6og94s.jpg"
+      "FunFactOfTheDay": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.",
+      "CoolAdviceOfTheDay": "Tell it like it is.",
+      "DadJokeOfTheDay": "You will never guess what Elsa did to the balloon. She let it go.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ojabh.jpg"
    }
 }
 ```
