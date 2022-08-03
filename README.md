@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  ",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6on2ca.jpg"
+      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "What do you get hanging from Apple trees? Sore arms.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6oqzok.jpg"
    }
 }
 ```
