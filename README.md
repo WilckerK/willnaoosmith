@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
-      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
-      "DadJokeOfTheDay": "What do you get hanging from Apple trees? Sore arms.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6oqzok.jpg"
+      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
+      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
+      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ouxcd.jpg"
    }
 }
 ```
