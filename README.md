@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "What do you call a careful wolf? Aware wolf.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6oz0gv.jpg"
+      "FunFactOfTheDay": "If Texas were a country, its GNP would be the fifth largest of any country in the world.",
+      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
+      "DadJokeOfTheDay": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6p2w0h.jpg"
    }
 }
 ```
