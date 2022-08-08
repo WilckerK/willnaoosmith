@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "I decided to sell my Hoover… well it was just collecting dust.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6p5rsz.jpg"
+      "FunFactOfTheDay": "Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6p8sac.jpg"
    }
 }
 ```
