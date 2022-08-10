@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Walt Disney was afraid of mice.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "what do you call a dog that can do magic tricks? a labracadabrador",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6pcpg0.jpg"
+      "FunFactOfTheDay": "166,875,000,000 pieces of mail are delivered each year in the US",
+      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
+      "DadJokeOfTheDay": "Just read a few facts about frogs. They were ribbiting.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6pgpev.jpg"
    }
 }
 ```
