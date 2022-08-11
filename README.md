@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "166,875,000,000 pieces of mail are delivered each year in the US",
-      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
-      "DadJokeOfTheDay": "Just read a few facts about frogs. They were ribbiting.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6pgpev.jpg"
+      "FunFactOfTheDay": "Humans are the only primates that don`t have pigment in the palms of their hands.",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "What do you call an eagle who can play the piano? Talonted!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6pkuf9.jpg"
    }
 }
 ```
