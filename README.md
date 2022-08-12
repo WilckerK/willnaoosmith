@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Humans are the only primates that don`t have pigment in the palms of their hands.",
-      "CoolAdviceOfTheDay": "Make choices and dont look back.",
-      "DadJokeOfTheDay": "What do you call an eagle who can play the piano? Talonted!",
-      "IsTodayChristmas?": "Ask me in one hour",
+      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
+      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
+      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6pkuf9.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6pp0xh.jpg"
    }
 }
 ```
