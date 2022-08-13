@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
-      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
-      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6pp0xh.jpg"
+      "FunFactOfTheDay": "A dime has 118 ridges around the edge.",
+      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
+      "DadJokeOfTheDay": "I met this girl on a dating site and, I don't know, we just clicked.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6pt0ry.jpg"
    }
 }
 ```
