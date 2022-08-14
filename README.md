@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A dime has 118 ridges around the edge.",
-      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
-      "DadJokeOfTheDay": "I met this girl on a dating site and, I don't know, we just clicked.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6pt0ry.jpg"
+      "FunFactOfTheDay": "Cats urine glows under a black light.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "What does a pirate pay for his corn? A buccaneer!",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6pvzwp.jpg"
    }
 }
 ```
