@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.",
-      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
-      "DadJokeOfTheDay": "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6q2tm3.jpg"
+      "FunFactOfTheDay": "On average, Americans` favorite smell is banana.",
+      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
+      "DadJokeOfTheDay": "Why was Pavlov's beard so soft?  Because he conditioned it.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6q6xfq.jpg"
    }
 }
 ```
