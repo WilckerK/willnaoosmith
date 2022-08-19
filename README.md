@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pig`s orgasm lasts for 30 minutes.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qb26d.jpg"
+      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
+      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
+      "DadJokeOfTheDay": "Me and my mates are in a band called Duvet. We're a cover band.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qf8ck.jpg"
    }
 }
 ```
