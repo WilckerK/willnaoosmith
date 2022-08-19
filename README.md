@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
-      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
-      "DadJokeOfTheDay": "Me and my mates are in a band called Duvet. We're a cover band.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qf8ck.jpg"
+      "FunFactOfTheDay": "The Minneapolis phone book has 21 pages of Andersons.",
+      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
+      "DadJokeOfTheDay": "I knew a guy who collected candy canes, they were all in mint condition",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qh7jc.jpg"
    }
 }
 ```
