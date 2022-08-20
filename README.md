@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Minneapolis phone book has 21 pages of Andersons.",
-      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
-      "DadJokeOfTheDay": "I knew a guy who collected candy canes, they were all in mint condition",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qh7jc.jpg"
+      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
+      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
+      "DadJokeOfTheDay": "I broke my finger at work today, on the other hand I'm completely fine.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qjbwu.jpg"
    }
 }
 ```
