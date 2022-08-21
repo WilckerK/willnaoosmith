@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
-      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
-      "DadJokeOfTheDay": "I broke my finger at work today, on the other hand I'm completely fine.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qjbwu.jpg"
+      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
+      "CoolAdviceOfTheDay": "Cars are bad investments.",
+      "DadJokeOfTheDay": "Why can't a bicycle stand on its own? It's two-tired.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qme2j.jpg"
    }
 }
 ```
