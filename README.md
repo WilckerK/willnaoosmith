@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,052",
+      "CurrentStackOverflowReputation": "2,062",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
-      "CoolAdviceOfTheDay": "Cars are bad investments.",
-      "DadJokeOfTheDay": "Why can't a bicycle stand on its own? It's two-tired.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qme2j.jpg"
+      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
+      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
+      "DadJokeOfTheDay": "Why are skeletons so calm? Because nothing gets under their skin.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qpk7z.jpg"
    }
 }
 ```
