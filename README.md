@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,062",
+      "CurrentStackOverflowReputation": "2,072",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
-      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
-      "DadJokeOfTheDay": "Why are skeletons so calm? Because nothing gets under their skin.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qpk7z.jpg"
+      "FunFactOfTheDay": "Q is the only letter in the alphabet that does not appear in the name of any of the United States!",
+      "CoolAdviceOfTheDay": "Don't waste food.",
+      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qtqd5.jpg"
    }
 }
 ```
