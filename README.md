@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "What's the worst part about being a cross-eyed teacher?  They can't control their pupils.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qxyer.jpg"
+      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
+      "CoolAdviceOfTheDay": "Respect your elders.",
+      "DadJokeOfTheDay": "'I'm sorry.' 'Hi sorry, I'm dad'",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qz5if.jpg"
    }
 }
 ```
