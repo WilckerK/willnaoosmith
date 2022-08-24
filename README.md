@@ -87,37 +87,37 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 211 Contributions in the Year 2022
+> 🏆 210 Contributions in the Year 2022
  > 
-> 📦 275.4 kB Used in GitHub's Storage 
+> 📦 211.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 28 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               12 hrs 6 mins       ████████████████░░░░░░░░░   66.82% 
-CSS                      4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15% 
-Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+JavaScript               11 hrs 4 mins       ████████████████░░░░░░░░░   66.36% 
+CSS                      4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   27.32% 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-Sublime Text             18 hrs 7 mins       █████████████████████████   100.0%
+Sublime Text             16 hrs 41 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    18 hrs 7 mins       █████████████████████████   100.0%
+Linux                    16 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
