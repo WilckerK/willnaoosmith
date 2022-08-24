@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Q is the only letter in the alphabet that does not appear in the name of any of the United States!",
-      "CoolAdviceOfTheDay": "Don't waste food.",
-      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qtqd5.jpg"
+      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
+      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
+      "DadJokeOfTheDay": "What's the worst part about being a cross-eyed teacher?  They can't control their pupils.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6qxyer.jpg"
    }
 }
 ```
