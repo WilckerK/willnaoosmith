@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
-      "CoolAdviceOfTheDay": "Respect your elders.",
-      "DadJokeOfTheDay": "'I'm sorry.' 'Hi sorry, I'm dad'",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6qz5if.jpg"
+      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
+      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
+      "DadJokeOfTheDay": "What do you call a magician who has lost their magic? Ian.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6r2ddl.jpg"
    }
 }
 ```
