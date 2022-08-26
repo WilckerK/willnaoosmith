@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
-      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
-      "DadJokeOfTheDay": "What do you call a magician who has lost their magic? Ian.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6r2ddl.jpg"
+      "FunFactOfTheDay": "Porcupines can float in water.",
+      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
+      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6r6uxu.jpg"
    }
 }
 ```
