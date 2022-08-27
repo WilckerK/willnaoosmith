@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Porcupines can float in water.",
-      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
-      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "Why are graveyards so noisy? Because of all the coffin.",
+      "IsTodayChristmas?": "Unfortunately, not",
       "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6r6uxu.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6rb521.jpg"
    }
 }
 ```
