@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "Why are graveyards so noisy? Because of all the coffin.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6rb521.jpg"
+      "FunFactOfTheDay": "166,875,000,000 pieces of mail are delivered each year in the US",
+      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
+      "DadJokeOfTheDay": "I wouldn't buy anything with velcro. It's a total rip-off.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6re6vq.jpg"
    }
 }
 ```
