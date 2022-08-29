@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "166,875,000,000 pieces of mail are delivered each year in the US",
-      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
-      "DadJokeOfTheDay": "I wouldn't buy anything with velcro. It's a total rip-off.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6re6vq.jpg"
+      "FunFactOfTheDay": "Only one person in two billion will live to be 116 or older.",
+      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
+      "DadJokeOfTheDay": "What was the pumpkin’s favorite sport?  Squash.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6rhfe7.jpg"
    }
 }
 ```
