@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only one person in two billion will live to be 116 or older.",
-      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
-      "DadJokeOfTheDay": "What was the pumpkin’s favorite sport?  Squash.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6rhfe7.jpg"
+      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
+      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
+      "DadJokeOfTheDay": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6rljyh.jpg"
    }
 }
 ```
