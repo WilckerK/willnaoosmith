@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
-      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
-      "DadJokeOfTheDay": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6rljyh.jpg"
+      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "How much does a hipster weigh? An instagram.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6rpzjl.jpg"
    }
 }
 ```
