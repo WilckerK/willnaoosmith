@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "How much does a hipster weigh? An instagram.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6rpzjl.jpg"
+      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
+      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
+      "DadJokeOfTheDay": "How many bones are in the human hand? A handful of them.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6rufq6.jpg"
    }
 }
 ```
