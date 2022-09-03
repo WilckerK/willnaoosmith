@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
-      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
-      "DadJokeOfTheDay": "Yesterday I confused the words 'jacuzzi' and 'yakuza'. Now I'm in hot water with the Japanese mafia.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6rz2h2.jpg"
+      "FunFactOfTheDay": "February 1865 is the only month in recorded history not to have a full moon.",
+      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
+      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6s3aqv.jpg"
    }
 }
 ```
