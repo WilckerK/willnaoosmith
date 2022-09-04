@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "February 1865 is the only month in recorded history not to have a full moon.",
-      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
-      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6s3aqv.jpg"
+      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "Why can’t you hear a pterodactyl go to the bathroom? The p is silent.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6s6i6a.jpg"
    }
 }
 ```
