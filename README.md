@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "Why can’t you hear a pterodactyl go to the bathroom? The p is silent.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6s6i6a.jpg"
+      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
+      "CoolAdviceOfTheDay": "The higher up you are in a company, the more likely it is that your boss is a psychopath.",
+      "DadJokeOfTheDay": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6s9sj0.jpg"
    }
 }
 ```
