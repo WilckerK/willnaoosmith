@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
-      "CoolAdviceOfTheDay": "The higher up you are in a company, the more likely it is that your boss is a psychopath.",
-      "DadJokeOfTheDay": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6s9sj0.jpg"
+      "FunFactOfTheDay": "The state of Florida is bigger than England!",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6sdlcy.jpg"
    }
 }
 ```
