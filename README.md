@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The state of Florida is bigger than England!",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6sdlcy.jpg"
+      "FunFactOfTheDay": "Cats urine glows under a black light.",
+      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
+      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6shwrg.jpg"
    }
 }
 ```
