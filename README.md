@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats urine glows under a black light.",
-      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
-      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6shwrg.jpg"
+      "FunFactOfTheDay": "Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.",
+      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
+      "DadJokeOfTheDay": "How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6smcyb.jpg"
    }
 }
 ```
