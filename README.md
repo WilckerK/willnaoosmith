@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Thirty-five percent of people who use personal ads for dating are already married.",
-      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
-      "DadJokeOfTheDay": "Why did the kid cross the playground? To get to the other slide.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6sz1qf.jpg"
+      "FunFactOfTheDay": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
+      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
+      "DadJokeOfTheDay": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6t2jmo.jpg"
    }
 }
 ```
