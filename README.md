@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
-      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
-      "DadJokeOfTheDay": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6t2jmo.jpg"
+      "FunFactOfTheDay": "Most toilets flush in E flat.",
+      "CoolAdviceOfTheDay": "When faced with a choice, do both.",
+      "DadJokeOfTheDay": "How do you organize a space party? You planet.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6t6y8o.jpg"
    }
 }
 ```
