@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,071",
+      "CurrentStackOverflowReputation": "2,081",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "Yesterday a clown held a door open for me. I thought it was a nice jester.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6tbgzi.jpg"
+      "FunFactOfTheDay": "To 'testify' was based on men in the Roman court swearing to a statement made by swearing on their testicles.",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6tg4wx.jpg"
    }
 }
 ```
