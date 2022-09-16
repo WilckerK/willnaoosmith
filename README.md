@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To 'testify' was based on men in the Roman court swearing to a statement made by swearing on their testicles.",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6tg4wx.jpg"
+      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
+      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
+      "DadJokeOfTheDay": "What do you call someone with no nose? Nobody knows.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6tku04.jpg"
    }
 }
 ```
