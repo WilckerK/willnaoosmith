@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,081",
+      "CurrentStackOverflowReputation": "2,091",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
-      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
-      "DadJokeOfTheDay": "What do you call someone with no nose? Nobody knows.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6tku04.jpg"
+      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
+      "CoolAdviceOfTheDay": "Respect your elders.",
+      "DadJokeOfTheDay": "Two silk worms had a race. They ended up in a tie.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6tp7oo.jpg"
    }
 }
 ```
