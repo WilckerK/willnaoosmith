@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
-      "CoolAdviceOfTheDay": "Respect your elders.",
-      "DadJokeOfTheDay": "Two silk worms had a race. They ended up in a tie.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6tp7oo.jpg"
+      "FunFactOfTheDay": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.",
+      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
+      "DadJokeOfTheDay": "Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6tsddz.jpg"
    }
 }
 ```
