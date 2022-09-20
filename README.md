@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "When do doctors get angry? When they run out of patients.",
-      "IsTodayChristmas?": "Not quite",
+      "FunFactOfTheDay": "Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.",
+      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
+      "DadJokeOfTheDay": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
+      "IsTodayChristmas?": "I dont know",
       "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6tvsl9.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6u04js.jpg"
    }
 }
 ```
