@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.",
-      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
-      "DadJokeOfTheDay": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6u04js.jpg"
+      "FunFactOfTheDay": "1 in every 4 Americans has appeared someway or another on television.",
+      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
+      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6u4n23.jpg"
    }
 }
 ```
