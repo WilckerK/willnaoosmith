@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "1 in every 4 Americans has appeared someway or another on television.",
-      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
-      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
+      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
+      "CoolAdviceOfTheDay": "Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.",
+      "DadJokeOfTheDay": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
       "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6u4n23.jpg"
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6u98wh.jpg"
    }
 }
 ```
