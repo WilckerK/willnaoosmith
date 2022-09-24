@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
-      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
-      "DadJokeOfTheDay": "What was a more important invention than the first telephone? The second one.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6ue13z.jpg"
+      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "What kind of award did the dentist receive? A little plaque.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6uijep.jpg"
    }
 }
 ```
