@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.",
-      "CoolAdviceOfTheDay": "Vinegar is a powerful cleaning agent.",
-      "DadJokeOfTheDay": "What's the best thing about elevator jokes? They work on so many levels.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6uloba.jpg"
+      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
+      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
+      "DadJokeOfTheDay": "I wish I could clean mirrors for a living. It's just something I can see myself doing.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6up4w2.jpg"
    }
 }
 ```
