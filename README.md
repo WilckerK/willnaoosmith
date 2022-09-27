@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
-      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
-      "DadJokeOfTheDay": "I wish I could clean mirrors for a living. It's just something I can see myself doing.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6up4w2.jpg"
+      "FunFactOfTheDay": "The longest word comprised of one row on the keyboard is: TYPEWRITER",
+      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
+      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6utmkn.jpg"
    }
 }
 ```
