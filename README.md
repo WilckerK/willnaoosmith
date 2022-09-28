@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest word comprised of one row on the keyboard is: TYPEWRITER",
-      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
-      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6utmkn.jpg"
+      "FunFactOfTheDay": "A snail can sleep for three years.",
+      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
+      "DadJokeOfTheDay": "Wife: Honey I’m pregnant.  Me: Well…. what do we do now?  Wife: Well, I guess we should go to a baby doctor.  Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6uy9ix.jpg"
    }
 }
 ```
