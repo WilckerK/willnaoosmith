@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,091",
+      "CurrentStackOverflowReputation": "2,101",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A snail can sleep for three years.",
-      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
-      "DadJokeOfTheDay": "Wife: Honey I’m pregnant.  Me: Well…. what do we do now?  Wife: Well, I guess we should go to a baby doctor.  Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6uy9ix.jpg"
+      "FunFactOfTheDay": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.",
+      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
+      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6v30go.jpg"
    }
 }
 ```
