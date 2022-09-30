@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6v30go.jpg"
+      "FunFactOfTheDay": "South Dakota is the only U.S state which shares no letters with the name of it`s capital",
+      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
+      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6v7vq2.jpg"
    }
 }
 ```
