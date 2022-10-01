@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "South Dakota is the only U.S state which shares no letters with the name of it`s capital",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6v7vq2.jpg"
+      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
+      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
+      "DadJokeOfTheDay": "What do you get when you cross a snowman with a vampire? Frostbite.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6vcgvs.jpg"
    }
 }
 ```
