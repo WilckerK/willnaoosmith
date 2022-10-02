@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
-      "DadJokeOfTheDay": "What do you get when you cross a snowman with a vampire? Frostbite.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6vcgvs.jpg"
+      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "Why did the house go to the doctor? It was having window panes.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6vform.jpg"
    }
 }
 ```
