@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: 'It does not matter, my audience sees only my right side.'",
-      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
-      "DadJokeOfTheDay": "People who don't eat gluten are really going against the grain.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6vj0vw.jpg"
+      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
+      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
+      "DadJokeOfTheDay": "What did the 0 say to the 8? Nice belt.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6vni0b.jpg"
    }
 }
 ```
