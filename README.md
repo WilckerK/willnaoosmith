@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
-      "DadJokeOfTheDay": "What did the 0 say to the 8? Nice belt.",
+      "FunFactOfTheDay": "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`",
+      "CoolAdviceOfTheDay": "Have a firm handshake.",
+      "DadJokeOfTheDay": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
       "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6vni0b.jpg"
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6vs50o.jpg"
    }
 }
 ```
