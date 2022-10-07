@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,101",
+      "CurrentStackOverflowReputation": "2,111",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
-      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
-      "DadJokeOfTheDay": "Bad at golf? Join the club.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6vwppx.jpg"
+      "FunFactOfTheDay": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
+      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
+      "DadJokeOfTheDay": "Man, I really love my furniture... me and my recliner go way back.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6w1jqz.jpg"
    }
 }
 ```
