@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "I just got fired from a florist, apparently I took too many leaves.",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
+      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
+      "DadJokeOfTheDay": "Why are mummys scared of vacation? They're afraid to unwind.",
+      "IsTodayChristmas?": "Maybe another time",
       "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6w9aw2.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6wcju0.jpg"
    }
 }
 ```
