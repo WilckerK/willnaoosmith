@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
-      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
-      "DadJokeOfTheDay": "Why are mummys scared of vacation? They're afraid to unwind.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6wcju0.jpg"
+      "FunFactOfTheDay": "Americans travel 1,144,721,000 miles by air every day",
+      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
+      "DadJokeOfTheDay": "What did the calculator say to the student? You can count on me.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6wgrkm.jpg"
    }
 }
 ```
