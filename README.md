@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "40,000 Americans are injured by toilets each year.",
-      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
-      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6wl9ez.jpg"
+      "FunFactOfTheDay": "The most common name in world is Mohammed.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "Hostess: Do you have a preference of where you sit? Dad: Down.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6wpxvq.jpg"
    }
 }
 ```
