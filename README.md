@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most common name in world is Mohammed.",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "Hostess: Do you have a preference of where you sit? Dad: Down.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6wpxvq.jpg"
+      "FunFactOfTheDay": "Ninety percent of all species that have become extinct have been birds.",
+      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
+      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6wus2p.jpg"
    }
 }
 ```
