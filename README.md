@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ninety percent of all species that have become extinct have been birds.",
-      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
-      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6wus2p.jpg"
+      "FunFactOfTheDay": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
+      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
+      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6wzgk5.jpg"
    }
 }
 ```
