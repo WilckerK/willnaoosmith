@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
-      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
-      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6wzgk5.jpg"
+      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "A horse walks into a bar. The bar tender says 'Hey.' The horse says 'Sure.'",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6x2u0r.jpg"
    }
 }
 ```
