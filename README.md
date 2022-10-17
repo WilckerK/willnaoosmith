@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
-      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
-      "DadJokeOfTheDay": "A horse walks into a bar. The bar tender says 'Hey.' The horse says 'Sure.'",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6x2u0r.jpg"
+      "FunFactOfTheDay": "Almonds are a member of the peach family.",
+      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
+      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6x6erf.jpg"
    }
 }
 ```
