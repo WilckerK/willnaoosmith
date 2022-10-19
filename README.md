@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "What's the difference between a guitar and a fish? You can tune a guitar but you can't 'tuna' fish!",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6xb3m0.jpg"
+      "FunFactOfTheDay": "The most common name in world is Mohammed.",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "Don't tell secrets in corn fields. Too many ears around.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6xfxuv.jpg"
    }
 }
 ```
