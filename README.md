@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most common name in world is Mohammed.",
-      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
-      "DadJokeOfTheDay": "Don't tell secrets in corn fields. Too many ears around.",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
+      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
+      "DadJokeOfTheDay": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6xfxuv.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6xkszy.jpg"
    }
 }
 ```
