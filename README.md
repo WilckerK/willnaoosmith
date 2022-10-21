@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6xkszy.jpg"
+      "FunFactOfTheDay": "The world record for spitting a watermelon seed is 65 feet 4 inches.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6xptmt.jpg"
    }
 }
 ```
