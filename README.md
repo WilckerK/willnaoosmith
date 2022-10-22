@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The world record for spitting a watermelon seed is 65 feet 4 inches.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
+      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
+      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
+      "DadJokeOfTheDay": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
       "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6xptmt.jpg"
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6xum6s.jpg"
    }
 }
 ```
