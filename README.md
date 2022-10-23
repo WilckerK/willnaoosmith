@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
-      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
-      "DadJokeOfTheDay": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
+      "FunFactOfTheDay": "Cats urine glows under a black light.",
+      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
+      "DadJokeOfTheDay": "I’m on a whiskey diet. I’ve lost three days already.",
       "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6xum6s.jpg"
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6xxw6c.jpg"
    }
 }
 ```
