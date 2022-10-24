@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats urine glows under a black light.",
-      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
-      "DadJokeOfTheDay": "I’m on a whiskey diet. I’ve lost three days already.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6xxw6c.jpg"
+      "FunFactOfTheDay": "A standard slinky measures 87 feet when stretched out.",
+      "CoolAdviceOfTheDay": "Accept advice.",
+      "DadJokeOfTheDay": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6y1hb6.jpg"
    }
 }
 ```
