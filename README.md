@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A standard slinky measures 87 feet when stretched out.",
-      "CoolAdviceOfTheDay": "Accept advice.",
-      "DadJokeOfTheDay": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6y1hb6.jpg"
+      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
+      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
+      "DadJokeOfTheDay": "What did the traffic light say to the car as it passed? 'Don't look I'm changing!'",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6y67v4.jpg"
    }
 }
 ```
