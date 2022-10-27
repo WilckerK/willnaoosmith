@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,111",
+      "CurrentStackOverflowReputation": "2,117",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.",
-      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
-      "DadJokeOfTheDay": "You will never guess what Elsa did to the balloon. She let it go.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6yb1kz.jpg"
+      "FunFactOfTheDay": "Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.",
+      "CoolAdviceOfTheDay": "Good things come to those who wait.",
+      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6yg0nq.jpg"
    }
 }
 ```
