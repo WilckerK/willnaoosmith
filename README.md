@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.",
-      "CoolAdviceOfTheDay": "Good things come to those who wait.",
-      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6yg0nq.jpg"
+      "FunFactOfTheDay": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of 'Lorne Greene`s Wild Kingdom.'",
+      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
+      "DadJokeOfTheDay": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6yla44.jpg"
    }
 }
 ```
