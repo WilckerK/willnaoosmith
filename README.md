@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
-      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
-      "DadJokeOfTheDay": "I went to the doctor today and he told me I had type A blood but it was a type O.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6yqczj.jpg"
+      "FunFactOfTheDay": "There`s a systematic lull in conversation every 7 minutes.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6ytyyg.jpg"
    }
 }
 ```
