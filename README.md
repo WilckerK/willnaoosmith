@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "Can February march? No, but April may.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6z5abb.jpg"
+      "FunFactOfTheDay": "Q is the only letter in the alphabet that does not appear in the name of any of the United States!",
+      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
+      "DadJokeOfTheDay": "What do you do when your bunny gets wet? You get your hare dryer.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6z6thk.jpg"
    }
 }
 ```
