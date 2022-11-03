@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Q is the only letter in the alphabet that does not appear in the name of any of the United States!",
-      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
-      "DadJokeOfTheDay": "What do you do when your bunny gets wet? You get your hare dryer.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6z6thk.jpg"
+      "FunFactOfTheDay": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
+      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
+      "DadJokeOfTheDay": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6zbnau.jpg"
    }
 }
 ```
