@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most American car horns honk in the key of F.",
-      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
-      "DadJokeOfTheDay": "Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6zslqe.jpg"
+      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
+      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
+      "DadJokeOfTheDay": "Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/6zxejv.jpg"
    }
 }
 ```
