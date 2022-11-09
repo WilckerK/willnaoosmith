@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
-      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
-      "DadJokeOfTheDay": "Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.",
-      "IsTodayChristmas?": "Nah",
+      "FunFactOfTheDay": "The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/6zxejv.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/702e6m.jpg"
    }
 }
 ```
