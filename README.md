@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/702e6m.jpg"
+      "FunFactOfTheDay": "Every time you lick a stamp, you consume 1/10 of a calorie.",
+      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
+      "DadJokeOfTheDay": "It's only a murder of crows if there's probable caws.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/707hjw.jpg"
    }
 }
 ```
