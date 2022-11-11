@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every time you lick a stamp, you consume 1/10 of a calorie.",
-      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
-      "DadJokeOfTheDay": "It's only a murder of crows if there's probable caws.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/707hjw.jpg"
+      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
+      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
+      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/70cj35.jpg"
    }
 }
 ```
