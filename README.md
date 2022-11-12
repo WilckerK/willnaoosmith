@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
-      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
-      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/70cj35.jpg"
+      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "I used to work in a shoe recycling shop. It was sole destroying.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/70h1nm.jpg"
    }
 }
 ```
