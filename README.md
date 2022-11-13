@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "I used to work in a shoe recycling shop. It was sole destroying.",
+      "FunFactOfTheDay": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
+      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
+      "DadJokeOfTheDay": "What do you call corn that joins the army? Kernel.",
       "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/70h1nm.jpg"
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/70kfox.jpg"
    }
 }
 ```
