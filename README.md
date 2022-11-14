@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.",
-      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
-      "DadJokeOfTheDay": "What do you call corn that joins the army? Kernel.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/70kfox.jpg"
+      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/70o114.jpg"
    }
 }
 ```
