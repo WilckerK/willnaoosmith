@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When a Hawaiian woman wears a flower over her left ear, it means that she is not available.",
-      "CoolAdviceOfTheDay": "Don't burn bridges.",
-      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/70spzn.jpg"
+      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/70xrdr.jpg"
    }
 }
 ```
