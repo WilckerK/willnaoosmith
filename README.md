@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/70xrdr.jpg"
+      "FunFactOfTheDay": "A shark is the only fish that can blink with both eyes.",
+      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
+      "DadJokeOfTheDay": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/712sxk.jpg"
    }
 }
 ```
