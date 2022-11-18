@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A shark is the only fish that can blink with both eyes.",
-      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
-      "DadJokeOfTheDay": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/712sxk.jpg"
+      "FunFactOfTheDay": "Donald Duck`s middle name is Fauntleroy.  ",
+      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
+      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/717vo5.jpg"
    }
 }
 ```
