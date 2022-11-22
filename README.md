@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,137",
+      "CurrentStackOverflowReputation": "2,136",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.6 cans of Spam are consumed each second.",
-      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
-      "DadJokeOfTheDay": "I'd like to start a diet, but I've got too much on my plate right now.",
-      "IsTodayChristmas?": "No say I",
+      "FunFactOfTheDay": "There are more than 10 million bricks in the Empire State Building!",
+      "CoolAdviceOfTheDay": "Always the burrito.",
+      "DadJokeOfTheDay": "How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
       "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/71k8jf.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/71oxcj.jpg"
    }
 }
 ```
