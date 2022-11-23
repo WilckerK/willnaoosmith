@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more than 10 million bricks in the Empire State Building!",
-      "CoolAdviceOfTheDay": "Always the burrito.",
-      "DadJokeOfTheDay": "How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/71oxcj.jpg"
+      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "Two silk worms had a race. They ended up in a tie.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/71tib5.jpg"
    }
 }
 ```
