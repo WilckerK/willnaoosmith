@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Half of all Americans live within 50 miles of their birthplace.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "Two silk worms had a race. They ended up in a tie.",
-      "IsTodayChristmas?": "Not this time",
+      "FunFactOfTheDay": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
+      "DadJokeOfTheDay": "What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.",
+      "IsTodayChristmas?": "Unfortunately, not",
       "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/71tib5.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/71xwzt.jpg"
    }
 }
 ```
