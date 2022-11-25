@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
-      "DadJokeOfTheDay": "What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/71xwzt.jpg"
+      "FunFactOfTheDay": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/721xpm.jpg"
    }
 }
 ```
