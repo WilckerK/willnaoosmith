@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
-      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
-      "DadJokeOfTheDay": "What do you call corn that joins the army? Kernel.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/72bx7b.jpg"
+      "FunFactOfTheDay": "Starfish haven`t got brains.",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/72gfs2.jpg"
    }
 }
 ```
