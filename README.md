@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Starfish haven`t got brains.",
-      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
-      "DadJokeOfTheDay": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.",
+      "FunFactOfTheDay": "Women manage the money and pay the bills in  75% of all Americans households.",
+      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
+      "DadJokeOfTheDay": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
       "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/72gfs2.jpg"
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/72l3ie.jpg"
    }
 }
 ```
