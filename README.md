@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,136",
+      "CurrentStackOverflowReputation": "2,146",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.",
-      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
-      "DadJokeOfTheDay": "Why do mathematicians hate the U.S.? Because it's indivisible.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/72m3gp.jpg"
+      "FunFactOfTheDay": "The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.",
+      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
+      "DadJokeOfTheDay": "'What time is it?' I don't know... it keeps changing.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/72pzmx.jpg"
    }
 }
 ```
