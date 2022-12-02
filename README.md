@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.",
-      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
-      "DadJokeOfTheDay": "'What time is it?' I don't know... it keeps changing.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/72pzmx.jpg"
+      "FunFactOfTheDay": "Conception occurs most in the month of December.",
+      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
+      "DadJokeOfTheDay": "I was thinking about moving to Moscow but there is no point Russian into things.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/72uvzl.jpg"
    }
 }
 ```
