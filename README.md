@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most lipstick contains fish scales!",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/735wuf.jpg"
+      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
+      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
+      "DadJokeOfTheDay": "How can you tell a vampire has a cold? They start coffin.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/73ag5t.jpg"
    }
 }
 ```
