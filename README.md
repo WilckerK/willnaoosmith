@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
-      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
-      "DadJokeOfTheDay": "How can you tell a vampire has a cold? They start coffin.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/73ag5t.jpg"
+      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "How do robots eat guacamole? With computer chips.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/73f8pf.jpg"
    }
 }
 ```
