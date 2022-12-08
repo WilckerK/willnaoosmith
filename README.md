@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
-      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
-      "DadJokeOfTheDay": "How do robots eat guacamole? With computer chips.",
-      "IsTodayChristmas?": "Not this time",
+      "FunFactOfTheDay": "The verb 'cleave' is the only English word with two synonyms which are antonyms of each other: adhere and separate.",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
+      "IsTodayChristmas?": "Nope",
       "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/73f8pf.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/73k00a.jpg"
    }
 }
 ```
