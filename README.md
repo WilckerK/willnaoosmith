@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,144",
+      "CurrentStackOverflowReputation": "2,154",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The verb 'cleave' is the only English word with two synonyms which are antonyms of each other: adhere and separate.",
-      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
-      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/73k00a.jpg"
+      "FunFactOfTheDay": "The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.",
+      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
+      "DadJokeOfTheDay": "What's large, grey, and doesn't matter? An irrelephant. ",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/73or0u.jpg"
    }
 }
 ```
