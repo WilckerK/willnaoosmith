@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
-      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
-      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/73tc6a.jpg"
+      "FunFactOfTheDay": "The word 'dexter' whose meaning refers to the right hand is typed with only the left hand.  ",
+      "CoolAdviceOfTheDay": "Cars are bad investments.",
+      "DadJokeOfTheDay": "How was the snow globe feeling after the storm? A little shaken.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/73wgmx.jpg"
    }
 }
 ```
