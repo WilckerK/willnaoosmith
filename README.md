@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'dexter' whose meaning refers to the right hand is typed with only the left hand.  ",
-      "CoolAdviceOfTheDay": "Cars are bad investments.",
-      "DadJokeOfTheDay": "How was the snow globe feeling after the storm? A little shaken.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/73wgmx.jpg"
+      "FunFactOfTheDay": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning 'containing arsenic.'  ",
+      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
+      "DadJokeOfTheDay": "Some people eat light bulbs. They say it's a nice light snack.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/73zo20.jpg"
    }
 }
 ```
