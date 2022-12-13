@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning 'containing arsenic.'  ",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "Some people eat light bulbs. They say it's a nice light snack.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/73zo20.jpg"
+      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "My son is studying to be a surgeon, I just hope he makes the cut.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7443ku.jpg"
    }
 }
 ```
