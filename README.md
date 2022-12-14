@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "My son is studying to be a surgeon, I just hope he makes the cut.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7443ku.jpg"
+      "FunFactOfTheDay": "Conception occurs most in the month of December.",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "A Skeleton walked into a bar he said I need a beer and a mop",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/748tgx.jpg"
    }
 }
 ```
