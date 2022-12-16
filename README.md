@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "Someone broke into my house last night and stole my limbo trophy. How low can you go?",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/74dib4.jpg"
+      "FunFactOfTheDay": "There`s a systematic lull in conversation every 7 minutes.",
+      "CoolAdviceOfTheDay": "Measure twice, cut once.",
+      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/74i93j.jpg"
    }
 }
 ```
