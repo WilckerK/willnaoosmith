@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There`s a systematic lull in conversation every 7 minutes.",
-      "CoolAdviceOfTheDay": "Measure twice, cut once.",
-      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "Where do young cows eat lunch? In the calf-ateria.",
       "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/74i93j.jpg"
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/74mnho.jpg"
    }
 }
 ```
