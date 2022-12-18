@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
-      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
-      "DadJokeOfTheDay": "Where do young cows eat lunch? In the calf-ateria.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  ",
+      "CoolAdviceOfTheDay": "Accept advice.",
+      "DadJokeOfTheDay": "Where does batman go to the bathroom? The batroom.",
+      "IsTodayChristmas?": "Maybe",
       "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/74mnho.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/74pofl.jpg"
    }
 }
 ```
