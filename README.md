@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  ",
-      "CoolAdviceOfTheDay": "Accept advice.",
-      "DadJokeOfTheDay": "Where does batman go to the bathroom? The batroom.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/74pofl.jpg"
+      "FunFactOfTheDay": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.",
+      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
+      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/74sunh.jpg"
    }
 }
 ```
