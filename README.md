@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.",
-      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
-      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/74sunh.jpg"
+      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
+      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
+      "DadJokeOfTheDay": "What kind of music do planets listen to? Nep-tunes.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/74wwzy.jpg"
    }
 }
 ```
