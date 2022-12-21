@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,154",
+      "CurrentStackOverflowReputation": "2,164",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
-      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
-      "DadJokeOfTheDay": "What kind of music do planets listen to? Nep-tunes.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/74wwzy.jpg"
+      "FunFactOfTheDay": "One quarter of the bones in your body are in your feet.",
+      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
+      "DadJokeOfTheDay": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7515a4.jpg"
    }
 }
 ```
