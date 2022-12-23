@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most lipstick contains fish scales!",
-      "CoolAdviceOfTheDay": "Stop procrastinating.",
-      "DadJokeOfTheDay": "Did you hear about the guy who invented Lifesavers? They say he made a mint.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/755bui.jpg"
+      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
+      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
+      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/759eg3.jpg"
    }
 }
 ```
