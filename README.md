@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "How does a penguin build it’s house? Igloos it together.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/75cxcj.jpg"
+      "FunFactOfTheDay": "The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "What kind of music do mummy's like? Rap",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/75ftij.jpg"
    }
 }
 ```
