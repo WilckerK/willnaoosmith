@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "What kind of music do mummy's like? Rap",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/75ftij.jpg"
+      "FunFactOfTheDay": "In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/75ideh.jpg"
    }
 }
 ```
