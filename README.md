@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
-      "IsTodayChristmas?": "No say I",
+      "FunFactOfTheDay": "The S in Harry S. Truman did not stand for anything.",
+      "CoolAdviceOfTheDay": "What's stopping you?",
+      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
+      "IsTodayChristmas?": "Unfortunately, not",
       "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/75ideh.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/75kyoj.jpg"
    }
 }
 ```
