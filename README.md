@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The S in Harry S. Truman did not stand for anything.",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/75kyoj.jpg"
+      "FunFactOfTheDay": "The name of all continents in the world end with the same letter that they start with.",
+      "CoolAdviceOfTheDay": "Tell it like it is.",
+      "DadJokeOfTheDay": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/75nybh.jpg"
    }
 }
 ```
