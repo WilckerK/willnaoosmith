@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name of all continents in the world end with the same letter that they start with.",
-      "CoolAdviceOfTheDay": "Tell it like it is.",
-      "DadJokeOfTheDay": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/75nybh.jpg"
+      "FunFactOfTheDay": "Chewing gum while peeling onions will keep you from crying.",
+      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
+      "DadJokeOfTheDay": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/75r2uw.jpg"
    }
 }
 ```
