@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Chewing gum while peeling onions will keep you from crying.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/75r2uw.jpg"
+      "FunFactOfTheDay": "For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: 'It does not matter, my audience sees only my right side.'",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/75ua75.jpg"
    }
 }
 ```
