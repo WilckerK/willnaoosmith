@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: 'It does not matter, my audience sees only my right side.'",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/75ua75.jpg"
+      "FunFactOfTheDay": "WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through 'the whole 9 yards', hence the term.",
+      "CoolAdviceOfTheDay": "A long walk alone with some time to think, can work wonders.",
+      "DadJokeOfTheDay": "Somebody stole my Microsoft Office and they're going to pay - you have my Word.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/75xjov.jpg"
    }
 }
 ```
