@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "I thought about going on an all-almond diet. But that's just nuts.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/760npv.jpg"
+      "FunFactOfTheDay": "Hot water is heavier than cold.",
+      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
+      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/763edn.jpg"
    }
 }
 ```
