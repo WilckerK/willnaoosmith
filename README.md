@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through 'the whole 9 yards', hence the term.",
-      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
-      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/766hr9.jpg"
+      "FunFactOfTheDay": "Golf courses cover 4% of North America.",
+      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
+      "DadJokeOfTheDay": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/768uio.jpg"
    }
 }
 ```
