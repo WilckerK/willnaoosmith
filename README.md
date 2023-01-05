@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
-      "CoolAdviceOfTheDay": "Big things have small beginnings.",
-      "DadJokeOfTheDay": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/76a6b2.jpg"
+      "FunFactOfTheDay": "Al Capone`s business card said he was a used furniture dealer.",
+      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
+      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/76e5ih.jpg"
    }
 }
 ```
