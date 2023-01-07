@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person spends 12 weeks a year `looking for things`.",
-      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
-      "DadJokeOfTheDay": "I made a belt out of watches once... It was a waist of time.",
-      "IsTodayChristmas?": "Maybe",
+      "FunFactOfTheDay": "Conception occurs most in the month of December.",
+      "CoolAdviceOfTheDay": "Don't burn bridges.",
+      "DadJokeOfTheDay": "What happens to a frog's car when it breaks down? It gets toad.",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/76ifbh.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/76mlue.jpg"
    }
 }
 ```
