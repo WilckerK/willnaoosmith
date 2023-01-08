@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,174",
+      "CurrentStackOverflowReputation": "2,184",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Conception occurs most in the month of December.",
-      "CoolAdviceOfTheDay": "Don't burn bridges.",
-      "DadJokeOfTheDay": "What happens to a frog's car when it breaks down? It gets toad.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/76mlue.jpg"
+      "FunFactOfTheDay": "A dragonfly has a lifespan of 24 hours.",
+      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
+      "DadJokeOfTheDay": "Where did Captain Hook get his hook? From a second hand store.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/76po91.jpg"
    }
 }
 ```
