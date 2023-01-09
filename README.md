@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A dragonfly has a lifespan of 24 hours.",
-      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
-      "DadJokeOfTheDay": "Where did Captain Hook get his hook? From a second hand store.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/76po91.jpg"
+      "FunFactOfTheDay": "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.",
+      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
+      "DadJokeOfTheDay": "People who don't eat gluten are really going against the grain.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/76srus.jpg"
    }
 }
 ```
