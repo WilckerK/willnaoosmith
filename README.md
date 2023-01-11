@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,193",
+      "CurrentStackOverflowReputation": "2,203",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The dot over the letter `i` is called a tittle.  ",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "Our wedding was so beautiful, even the cake was in tiers.",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.",
+      "CoolAdviceOfTheDay": "Don't cross the streams.",
+      "DadJokeOfTheDay": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
+      "IsTodayChristmas?": "Ask me in one hour",
       "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/76x41i.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/771kpq.jpg"
    }
 }
 ```
