@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.",
-      "CoolAdviceOfTheDay": "Don't cross the streams.",
-      "DadJokeOfTheDay": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/771kpq.jpg"
+      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
+      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
+      "DadJokeOfTheDay": "What's orange and sounds like a parrot? A Carrot.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7766ue.jpg"
    }
 }
 ```
