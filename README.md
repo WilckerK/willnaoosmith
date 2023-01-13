@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
-      "DadJokeOfTheDay": "What's orange and sounds like a parrot? A Carrot.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7766ue.jpg"
+      "FunFactOfTheDay": "Average number of people airborne over the US any given hour: 61,000.",
+      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
+      "DadJokeOfTheDay": "A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/77b01z.jpg"
    }
 }
 ```
