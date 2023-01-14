@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average number of people airborne over the US any given hour: 61,000.",
-      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
-      "DadJokeOfTheDay": "A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.",
-      "IsTodayChristmas?": "Ask me tomorrow",
+      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
+      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
+      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
+      "IsTodayChristmas?": "Maybe",
       "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/77b01z.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/77fm18.jpg"
    }
 }
 ```
