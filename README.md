@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
-      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
-      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/77fm18.jpg"
+      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "Ever wondered why bees hum? It's because they don't know the words.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/77irpi.jpg"
    }
 }
 ```
