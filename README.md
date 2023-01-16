@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
-      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
-      "DadJokeOfTheDay": "Ever wondered why bees hum? It's because they don't know the words.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/77irpi.jpg"
+      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/77m0f9.jpg"
    }
 }
 ```
