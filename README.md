@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "I was in an 80's band called the prevention. We were better than the cure.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/77ukvz.jpg"
+      "FunFactOfTheDay": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "What kind of music do planets listen to? Nep-tunes.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7802vk.jpg"
    }
 }
 ```
