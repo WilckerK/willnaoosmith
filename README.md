@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "What kind of music do planets listen to? Nep-tunes.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7802vk.jpg"
+      "FunFactOfTheDay": "166,875,000,000 pieces of mail are delivered each year in the US",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "How are false teeth like stars? They come out at night!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/783yhf.jpg"
    }
 }
 ```
