@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "166,875,000,000 pieces of mail are delivered each year in the US",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "How are false teeth like stars? They come out at night!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/783yhf.jpg"
+      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "Where do rabbits go after they get married? On a bunny-moon.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/788jjq.jpg"
    }
 }
 ```
