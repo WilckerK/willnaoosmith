@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "Where do rabbits go after they get married? On a bunny-moon.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/788jjq.jpg"
+      "FunFactOfTheDay": "Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women",
+      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
+      "DadJokeOfTheDay": "How do hens stay fit? They always egg-cercise!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/78bovg.jpg"
    }
 }
 ```
