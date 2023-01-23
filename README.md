@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women",
-      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
-      "DadJokeOfTheDay": "How do hens stay fit? They always egg-cercise!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/78bovg.jpg"
+      "FunFactOfTheDay": "There are 1,575 steps from the ground floor to the top of the Empire State building.",
+      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
+      "DadJokeOfTheDay": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/78eyme.jpg"
    }
 }
 ```
