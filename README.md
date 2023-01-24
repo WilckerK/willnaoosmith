@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,203",
+      "CurrentStackOverflowReputation": "2,202",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 1,575 steps from the ground floor to the top of the Empire State building.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/78eyme.jpg"
+      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "Cosmetic surgery used to be such a taboo subject. Now you can talk about Botox and nobody raises an eyebrow.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/78jgbp.jpg"
    }
 }
 ```
