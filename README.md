@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "Cosmetic surgery used to be such a taboo subject. Now you can talk about Botox and nobody raises an eyebrow.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/78jgbp.jpg"
+      "FunFactOfTheDay": "On average, Americans eat 18 acres of pizza everyday.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "What's black and white and read all over? The newspaper.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/78o81n.jpg"
    }
 }
 ```
