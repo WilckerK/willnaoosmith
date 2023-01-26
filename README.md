@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On average, Americans eat 18 acres of pizza everyday.",
-      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
-      "DadJokeOfTheDay": "What's black and white and read all over? The newspaper.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/78o81n.jpg"
+      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/78szxw.jpg"
    }
 }
 ```
