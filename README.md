@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/78szxw.jpg"
+      "FunFactOfTheDay": "The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.",
+      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
+      "DadJokeOfTheDay": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/78xrnw.jpg"
    }
 }
 ```
