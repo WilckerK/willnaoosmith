@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.",
-      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
-      "DadJokeOfTheDay": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/78xrnw.jpg"
+      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "What did the left eye say to the right eye? Between us, something smells!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/792gae.jpg"
    }
 }
 ```
