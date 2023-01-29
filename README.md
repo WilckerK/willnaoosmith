@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
-      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
-      "DadJokeOfTheDay": "What did the left eye say to the right eye? Between us, something smells!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/792gae.jpg"
+      "FunFactOfTheDay": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
+      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
+      "DadJokeOfTheDay": "What do you do on a remote island? Try and find the TV island it belongs to.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/795mks.jpg"
    }
 }
 ```
