@@ -12,6 +12,9 @@
 	<a href="mailto:brochensquewill@protonmail.com">
 		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
 	</a>
+	<a href="https://www.linkedin.com/in/william-brochensque-j%C3%BAnior-b9a492225/">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>	
 </p>
 
 <br>
