@@ -72,12 +72,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
-      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
-      "DadJokeOfTheDay": "What do you do on a remote island? Try and find the TV island it belongs to.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/795mks.jpg"
+      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
+      "CoolAdviceOfTheDay": "Stop procrastinating.",
+      "DadJokeOfTheDay": "What cheese can never be yours? Nacho cheese.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/798yaj.jpg"
    }
 }
 ```
