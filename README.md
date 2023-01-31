@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
-      "CoolAdviceOfTheDay": "Stop procrastinating.",
-      "DadJokeOfTheDay": "What cheese can never be yours? Nacho cheese.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/798yaj.jpg"
+      "FunFactOfTheDay": "You can`t kill yourself by holding your breath.  ",
+      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
+      "DadJokeOfTheDay": "How do you make a hankie dance? Put a little boogie in it.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/79dkli.jpg"
    }
 }
 ```
