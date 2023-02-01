@@ -90,13 +90,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 15 Contributions in the Year 2023
+> 🏆 17 Contributions in the Year 2023
  > 
 > 📦 278.5 kB Used in GitHub's Storage 
  > 
@@ -110,14 +110,15 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 36 mins        ██████████████████████░░░   89.71% 
-CSV                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.29%
+Other                    1 hr 36 mins        █████████████████░░░░░░░░   68.73% 
+Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   22.3% 
+CSV                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97%
 
 🔥 Editors: 
-Sublime Text             1 hr 47 mins        █████████████████████████   100.0%
+Sublime Text             2 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████████████████   100.0%
+Linux                    2 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
