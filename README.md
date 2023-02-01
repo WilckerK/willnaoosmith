@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can`t kill yourself by holding your breath.  ",
-      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
-      "DadJokeOfTheDay": "How do you make a hankie dance? Put a little boogie in it.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/79dkli.jpg"
+      "FunFactOfTheDay": "Women blink nearly twice as much as men.",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "What is the hardest part about sky diving? The ground.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/79icwq.jpg"
    }
 }
 ```
