@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
-      "CoolAdviceOfTheDay": "Share positive energy.",
-      "DadJokeOfTheDay": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/79n67f.jpg"
+      "FunFactOfTheDay": "Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.",
+      "CoolAdviceOfTheDay": "Sometimes, you just need to say sorry. Even if it's not your fault.",
+      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/79s3ey.jpg"
    }
 }
 ```
