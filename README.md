@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.",
-      "CoolAdviceOfTheDay": "Sometimes, you just need to say sorry. Even if it's not your fault.",
-      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/79s3ey.jpg"
+      "FunFactOfTheDay": "38% of American men say they love their cars more than women",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/79wxho.jpg"
    }
 }
 ```
