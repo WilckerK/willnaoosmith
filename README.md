@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A bull can inseminate 300 cows from one single ejaculation.",
-      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
-      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7a3j5q.jpg"
+      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
+      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
+      "DadJokeOfTheDay": "Conjunctivitis.com – now that’s a site for sore eyes.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7a4d2c.jpg"
    }
 }
 ```
