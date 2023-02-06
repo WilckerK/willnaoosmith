@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 293 ways to make change for a dollar.",
-      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
-      "DadJokeOfTheDay": "What’s E.T. short for? He’s only got little legs.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7a0ae4.jpg"
+      "FunFactOfTheDay": "A bull can inseminate 300 cows from one single ejaculation.",
+      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
+      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7a3j5q.jpg"
    }
 }
 ```
