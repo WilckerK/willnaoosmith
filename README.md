@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
-      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
-      "DadJokeOfTheDay": "Conjunctivitis.com – now that’s a site for sore eyes.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7a4d2c.jpg"
+      "FunFactOfTheDay": "You spend 7 years of your life in the bathroom.",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7a846e.jpg"
    }
 }
 ```
