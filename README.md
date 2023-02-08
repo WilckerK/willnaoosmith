@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You spend 7 years of your life in the bathroom.",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7a846e.jpg"
+      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7acylk.jpg"
    }
 }
 ```
