@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,212",
+      "CurrentStackOverflowReputation": "2,222",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.",
-      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
-      "DadJokeOfTheDay": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7ahwut.jpg"
+      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
+      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
+      "DadJokeOfTheDay": "What do you call a dad that has fallen through the ice? A Popsicle.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7amxja.jpg"
    }
 }
 ```
