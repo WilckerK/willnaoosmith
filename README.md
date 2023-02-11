@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
-      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
-      "DadJokeOfTheDay": "What do you call a dad that has fallen through the ice? A Popsicle.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7amxja.jpg"
+      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
+      "CoolAdviceOfTheDay": "Build something out of LEGO.",
+      "DadJokeOfTheDay": "I wouldn't buy anything with velcro. It's a total rip-off.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7arkjk.jpg"
    }
 }
 ```
