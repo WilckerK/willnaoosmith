@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
-      "CoolAdviceOfTheDay": "Build something out of LEGO.",
-      "DadJokeOfTheDay": "I wouldn't buy anything with velcro. It's a total rip-off.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7arkjk.jpg"
+      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
+      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
+      "DadJokeOfTheDay": "What do you call a cow with no legs? Ground beef.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7auq6m.jpg"
    }
 }
 ```
