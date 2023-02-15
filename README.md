@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
-      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
-      "DadJokeOfTheDay": "What do Alexander the Great and Winnie the Pooh have in common? Same middle name.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7b2rfn.jpg"
+      "FunFactOfTheDay": "Virginia Woolf wrote all her books standing.",
+      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
+      "DadJokeOfTheDay": "Did you hear the joke about the wandering nun? She was a roman catholic.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7b7pdm.jpg"
    }
 }
 ```
