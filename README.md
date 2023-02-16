@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Virginia Woolf wrote all her books standing.",
-      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
-      "DadJokeOfTheDay": "Did you hear the joke about the wandering nun? She was a roman catholic.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7b7pdm.jpg"
+      "FunFactOfTheDay": "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7bccnu.jpg"
    }
 }
 ```
