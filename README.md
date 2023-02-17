@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
-      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7bccnu.jpg"
+      "FunFactOfTheDay": "Most toilets flush in E flat.",
+      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
+      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7bh2yh.jpg"
    }
 }
 ```
