@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most toilets flush in E flat.",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7bh2yh.jpg"
+      "FunFactOfTheDay": "The airplane Buddy Holly died in was the 'American Pie.' (Thus the name of the Don McLean song.)",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "What do you call a boomerang that won't come back? A stick.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7blhyc.jpg"
    }
 }
 ```
