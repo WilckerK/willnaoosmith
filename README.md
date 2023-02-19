@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The airplane Buddy Holly died in was the 'American Pie.' (Thus the name of the Don McLean song.)",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "What do you call a boomerang that won't come back? A stick.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7blhyc.jpg"
+      "FunFactOfTheDay": "If Texas were a country, its GNP would be the fifth largest of any country in the world.",
+      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
+      "DadJokeOfTheDay": "How does a scientist freshen their breath? With experi-mints!",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7boj1z.jpg"
    }
 }
 ```
