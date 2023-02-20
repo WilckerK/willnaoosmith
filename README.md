@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If Texas were a country, its GNP would be the fifth largest of any country in the world.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "How does a scientist freshen their breath? With experi-mints!",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7boj1z.jpg"
+      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "What has ears but cannot hear? A field of corn.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7bro4c.jpg"
    }
 }
 ```
