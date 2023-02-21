@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "DadJokeOfTheDay": "What has ears but cannot hear? A field of corn.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7bro4c.jpg"
+      "FunFactOfTheDay": "2,000 pounds of space dust and other space debris fall on the Earth every day.",
+      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
+      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7bvory.jpg"
    }
 }
 ```
