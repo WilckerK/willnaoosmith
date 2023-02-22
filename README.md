@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "2,000 pounds of space dust and other space debris fall on the Earth every day.",
-      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
-      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
+      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
+      "DadJokeOfTheDay": "No matter how kind you are, German children are kinder.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7bvory.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7c080r.jpg"
    }
 }
 ```
