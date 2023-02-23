@@ -92,19 +92,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%204%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2023
- > 
 > 📦 279.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 17 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -118,7 +118,6 @@ Sublime Text             6 mins              ███████████�
 
 💻 Operating System: 
 Linux                    6 mins              █████████████████████████   100.00 % 
-
 ```
 
 
