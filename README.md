@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
-      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
-      "DadJokeOfTheDay": "No matter how kind you are, German children are kinder.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7c080r.jpg"
+      "FunFactOfTheDay": "Dolphins sleep with one eye open!",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7c4vw5.jpg"
    }
 }
 ```
