@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "Where do you learn to make banana splits? At sundae school.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7c9n2f.jpg"
+      "FunFactOfTheDay": "If done perfectly, a rubix cube combination can be solved in 17 turns.",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "Why did the house go to the doctor? It was having window panes.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7ce9wj.jpg"
    }
 }
 ```
