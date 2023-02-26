@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If done perfectly, a rubix cube combination can be solved in 17 turns.",
-      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
-      "DadJokeOfTheDay": "Why did the house go to the doctor? It was having window panes.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7ce9wj.jpg"
+      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
+      "CoolAdviceOfTheDay": "Cars are bad investments.",
+      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7chg9l.jpg"
    }
 }
 ```
