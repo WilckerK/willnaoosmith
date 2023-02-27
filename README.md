@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
-      "CoolAdviceOfTheDay": "Cars are bad investments.",
-      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7chg9l.jpg"
+      "FunFactOfTheDay": "The human heart creates enough pressure to squirt blood 30ft.",
+      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
+      "DadJokeOfTheDay": "I boiled a funny bone last night and had a laughing stock",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7cknw2.jpg"
    }
 }
 ```
