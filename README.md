@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more psychoanalysts per capita in Buenos Aires than any other place in the world.",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "Why do cows wear bells? Because their horns don't work.",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "A whale`s penis is called a dork.",
+      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
+      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7cq4ns.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7cq4uv.jpg"
    }
 }
 ```
