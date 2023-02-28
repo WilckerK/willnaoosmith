@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human heart creates enough pressure to squirt blood 30ft.",
-      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
-      "DadJokeOfTheDay": "I boiled a funny bone last night and had a laughing stock",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "Why was the picture sent to prison? It was framed.",
+      "IsTodayChristmas?": "One day",
       "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7cknw2.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7cp8mb.jpg"
    }
 }
 ```
