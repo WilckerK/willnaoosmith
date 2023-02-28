@@ -28,7 +28,7 @@ jobs:
           committer_name: "Github Actions"
           committer_email: "githubactions@github.com.br"
           message: "Updated README.md Data"
-          token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
   
       - name: Generate Waka Stats
         uses: anmol098/waka-readme-stats@master
