@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A whale`s penis is called a dork.",
-      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
-      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7cq4uv.jpg"
+      "FunFactOfTheDay": "This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.",
+      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
+      "DadJokeOfTheDay": "How do you get a baby alien to sleep?  You rocket.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7cuu4m.jpg"
    }
 }
 ```
