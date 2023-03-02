@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "How do you get a baby alien to sleep?  You rocket.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7cuu4m.jpg"
+      "FunFactOfTheDay": "A `jiffy` is a unit of time for 1/100th of a second.",
+      "CoolAdviceOfTheDay": "Accept advice.",
+      "DadJokeOfTheDay": "I burned 2000 calories today, I left my food in the oven for too long.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7cypqj.jpg"
    }
 }
 ```
