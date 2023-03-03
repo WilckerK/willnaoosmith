@@ -57,7 +57,7 @@
    "Will": {
       "CurrentFocus": "Automating boring tasks with Python",
       "HowDoISeeMyselfIn5Years": "As a better fullstack developer and DBA",
-      "CurrentStackOverflowReputation": "2,222",
+      "CurrentStackOverflowReputation": "2,232",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A `jiffy` is a unit of time for 1/100th of a second.",
-      "CoolAdviceOfTheDay": "Accept advice.",
-      "DadJokeOfTheDay": "I burned 2000 calories today, I left my food in the oven for too long.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7cypqj.jpg"
+      "FunFactOfTheDay": "Rhode Island is the only state which the hammer throw is a legal high school sport.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7d3r5o.jpg"
    }
 }
 ```
