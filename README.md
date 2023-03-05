@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7d89e2.jpg"
+      "FunFactOfTheDay": "The airplane Buddy Holly died in was the 'American Pie.' (Thus the name of the Don McLean song.)",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7dbeab.jpg"
    }
 }
 ```
