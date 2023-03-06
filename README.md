@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The airplane Buddy Holly died in was the 'American Pie.' (Thus the name of the Don McLean song.)",
-      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
-      "DadJokeOfTheDay": "A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’",
+      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "Why do fish live in salt water? Because pepper makes them sneeze!",
       "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7dbeab.jpg"
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7deo1j.jpg"
    }
 }
 ```
