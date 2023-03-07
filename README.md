@@ -75,12 +75,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
-      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
-      "DadJokeOfTheDay": "Why do fish live in salt water? Because pepper makes them sneeze!",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/7deo1j.jpg"
+      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "My boss told me to have a good day... so I went home.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/7dja6j.jpg"
    }
 }
 ```
